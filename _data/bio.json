@@ -1,26 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Miguel Rodríguez Torrente",
+    "label": "Game Designer",
+    "picture": "https://github.com/miguelrodrigueztorrente.png",
+    "email": "miguelroto1998@gmail.com",
+    "phone": "646-54-94-52",
+    "website": "https://miguelrodrigueztorrente.github.io",
+    "summary": "I am a designer with a degree in video game design and development at the CITM university in Terrassa, Spain.",
+    "location": { "address": "", "postalCode": "08850", "city": "Gavà", "countryCode": "Spain", "region": "Catalonia" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "miguelrodrigueztorrente", "url": "http://github.com/miguelrodrigueztorrente" },
+      { "network": "linkedin", "username": "Miguel Rodríguez Torrente", "url": "https://www.linkedin.com/in/miguel-rodríguez-torrente/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Game Design" },
+    { "name": "Level Design" },
+    { "name": "2D Videogames" },
+    { "name": "Gameplay Mechanics" }
   ],
   "skills": [
     {
