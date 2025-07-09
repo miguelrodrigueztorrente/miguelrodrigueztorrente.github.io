@@ -9,8 +9,8 @@
     "summary": "I am a designer with a degree in video game design and development at the CITM university in Terrassa, Spain.",
     "location": { "address": "", "postalCode": "08850", "city": "Gavà", "countryCode": "Spain", "region": "Catalonia" },
     "profiles": [
-      { "network": "github", "username": "miguelrodrigueztorrente", "url": "http://github.com/miguelrodrigueztorrente" },
-      { "network": "linkedin", "username": "Miguel Rodríguez Torrente", "url": "https://www.linkedin.com/in/miguel-rodríguez-torrente/" }
+      { "network": "linkedin", "username": "Miguel Rodríguez Torrente", "url": "https://www.linkedin.com/in/miguel-rodríguez-torrente/" },
+      { "network": "github", "username": "miguelrodrigueztorrente", "url": "http://github.com/miguelrodrigueztorrente" }
     ]
   },
   "interests": [
