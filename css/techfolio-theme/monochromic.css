@@ -30,8 +30,12 @@ h1,h2,h3,h4 {
   font-family: Rubik;
 }
 
-p.lead, p.lead.text-center, p.lead.m-0, p.mb-1.text-end, p.m-0, b {
-    color: var(--tf-white2);
+p.lead,p.lead.text-center,p.lead.m-0,p.mb-1.text-end,p.m-0 {
+  color: var(--tf-white2);
+}
+
+b {
+  color: var(--tf-white2);
 }
 
 /* Format social media icons */
