@@ -10,8 +10,9 @@
   --tf-black2: #0d0d0d;
   --tf-darkblue: #1a1e3d;
   --tf-linkblue: #0969da;
-  --tf-white1: #fffff;
+  --tf-white1: #ffffff;
   --tf-gray1: #6c757d;
+  --bs-dark: #ffffff;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-linkblue);
   --tf-pill-bg: var(--tf-gray1);
