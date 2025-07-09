@@ -11,22 +11,31 @@
   --tf-darkblue: #1a1e3d;
   --tf-linkblue: #0969da;
   --tf-white1: #ffffff;
+  --tf-white2: #f8f9f9;
   --tf-gray1: #6c757d;
   --bs-dark: #ffffff;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-linkblue);
   --tf-pill-bg: var(--tf-gray1);
-  --tf-icon-fill: var(--tf-white1);
-  --tf-icon-hover: var(--tf-white1);
+  --tf-icon-fill: var(--tf-white2);
+  --tf-icon-hover: var(--tf-linkblue);
   --tf-page-bg-color: var(--tf-black1);
   --tf-footer-bg-color: var(--tf-black2);
   --tf-projects-bg-color: var(--tf-black2);
   --tf-essays-bg-color: var(--tf-black2);
 }
 
-h1,h2,h3,h4,h5 {
-  color: var(--tf-white1);
+h1,h2,h3,h4 {
+  color: var(--tf-white2);
   font-family: Rubik;
+}
+
+h5 {
+  color: var(--tf-black2);
+}
+
+p {
+  color: var(--tf-black2);
 }
 
 /* Format social media icons */
