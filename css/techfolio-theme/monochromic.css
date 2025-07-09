@@ -15,11 +15,12 @@
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-linkblue);
   --tf-pill-bg: var(--tf-gray1);
-  --tf-icon-fill: var(--tf-darkblue);
-  --tf-icon-hover: var(--tf-darkblue);
-  --tf-page-bg-color: var(--tf-black2);
-  --tf-footer-bg-color: var(--tf-black1);
-  --tf-projects-bg-color: var(--tf-black1);
+  --tf-icon-fill: var(--tf-white1);
+  --tf-icon-hover: var(--tf-white1);
+  --tf-page-bg-color: var(--tf-black1);
+  --tf-footer-bg-color: var(--tf-black2);
+  --tf-projects-bg-color: var(--tf-black2);
+  --tf-essays-bg-color: var(--tf-black2);
 }
 
 h1,h2,h3,h4,h5 {
