@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/bardakedabra_cover.png
 title: "Bardakedabra"
 date: 2025
 published: true
