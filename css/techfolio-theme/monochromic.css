@@ -30,7 +30,7 @@ h1,h2,h3,h4 {
   font-family: Rubik;
 }
 
-lead, lead text-center, lead m-0 {
+p.lead, p.lead.text-center, p.lead.m-0 {
     color: var(--tf-white2);
 }
 
@@ -65,5 +65,5 @@ a {
 .rounded-circle {
   border-color: var(--tf-white1);
   border-style: solid;
-  border-width: 1px;
+  border-width: 3px;
 }
