@@ -1,15 +1,15 @@
 ---
 layout: project
 type: teamproject
-image: img/bardakedabra_cover.png
-title: "Bardakedabra"
-date: 2025
+image: img/quizztale_cover.png
+title: "Quizz Tale"
+date: 2021
 published: true
 labels:
   - Indie Game
-  - Unity
-  - Game Design
-summary: "A reinvented indie game of the classic Google's Dinosaur Game. Adds a new visual style, new mechanics, replayability, and an ending to the game."
+  - Game Jam
+  - Pixel Art
+summary: "A trivia game in which you have to answer as many questions as possible correctly to get a good ending."
 ---
 
 <div class="text-center p-4">
