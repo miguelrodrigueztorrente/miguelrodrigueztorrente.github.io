@@ -9,7 +9,7 @@ labels:
   - Level Design
   - Super Mario Bros. 3
   - Platformer Design
-summary: "A level design of the video game saga Super Mario. The level is intended for World 5 of Super Mario Bros. 3 (1988)."
+summary: "A level design of the video game saga Super Mario. The design follows the style of Super Mario Bros. 3 (1988) levels."
 ---
 
 <div class="text-center p-4">
