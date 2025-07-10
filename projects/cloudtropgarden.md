@@ -7,7 +7,7 @@ date: 2024
 published: true
 labels:
   - Level Design
-  - Super Mario Bros 3
+  - Super Mario Bros. 3
   - Platformer Design
 summary: "A level design of the video game saga Super Mario. The level is intended for World 5 of Super Mario Bros. 3 (1988)."
 ---
