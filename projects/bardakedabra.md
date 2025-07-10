@@ -9,7 +9,7 @@ labels:
   - Indie Game
   - Game Design
   - Unity
-summary: "A reinvented indie game of the classic Google's Dinosaur Game. Adds a new visual style, new mechanics, replayability, and an ending to the game"
+summary: "A reinvented indie game of the classic Google's Dinosaur Game. Adds a new visual style, new mechanics, replayability, and an ending to the game."
 ---
 
 <div class="text-center p-4">
