@@ -7,8 +7,8 @@ date: 2025
 published: true
 labels:
   - Indie Game
-  - Game Design
   - Unity
+  - Game Design
 summary: "A reinvented indie game of the classic Google's Dinosaur Game. Adds a new visual style, new mechanics, replayability, and an ending to the game."
 ---
 
