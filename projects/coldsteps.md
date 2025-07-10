@@ -9,7 +9,7 @@ labels:
   - Level Design
   - Baba is You
   - Puzzle Design
-summary: "A level of the puzzle video game Baba is You, created with the game level editor beta uploaded on Itch.io"
+summary: "A level of the puzzle video game Baba is You, created with the game level editor beta uploaded on Itch.io."
 ---
 
 <div class="text-center p-4">
