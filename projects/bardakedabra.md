@@ -12,7 +12,7 @@ labels:
 summary: "A reinvented indie game of the classic Google's Dinosaur Game. Adds a new visual style, new mechanics, replayability, and an ending to the game."
 ---
 <div class="text-center p-4">
-  <img width="720px" class="img-fluid" src="https://i.imgur.com/kpdK0bH.gif">
+  <img width="500px" class="img-thumbnail" src="https://i.imgur.com/kpdK0bH.gif">
 </div>
 
 
