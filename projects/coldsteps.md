@@ -20,12 +20,16 @@ Cold Steps is a level of the puzzle video game Baba is You, created with the gam
   <img width="700px" class="img-fluid" src="https://i.imgur.com/6R5GCHi.gif">
 </div>
 
+<br>
+
 ## First Aproach with the Game
 
 After playing several levels of Baba is You, there were two mechanics that stood out to me. The first was the fact that in some levels, the player could take control of the walls of the level, which provided a feeling of power by suddenly gaining agency over a large area of the level. The other mechanic was based on the <b>MAKE</b> property, which allowed the player to generate an element every time they took a step.
 This mechanic reminded me of the puzzles of the video game The Legend Of Zelda: Tears of the Kingdom, in which the puzzles provide you with different pieces and materials separately and it is the player who must put them together to create himself the tools that will allow him to solve the puzzle.
 
 So I decided that in my level the player had to create different elements with the <b>MAKE</b> property and then use them to solve the puzzle.
+
+<br>
 
 ## Initial Concept
 
@@ -49,6 +53,8 @@ The material that worked best was <b>BLOB</b>, as it created an interesting resu
 The idea was to use the large body created to move blocks of <b>TEXT</b> at the same time, or adopt different shapes to fit into gaps and move text in ways that could not be done with Baba.
 But this idea was discarded due to its complexity and I established that the way to beat the level would not be to control the mass of ice created, but to use it to overcome the puzzle.
 
+<br>
+
 ## First Version
 
 In the first attempt to make the level I had two rules clear that would remain intact throughout development. The first was that the way to win was to touch the flag (<b>FLAG IS WIN</b>), since it was a clear and easy to see objective. The second was the mechanic of Baba creating ice when stepping on water (<b>BABA ON WATER MAKE ICE</b>), since this was the hook of the level.
@@ -58,6 +64,8 @@ However, I couldn't use these mechanics in a way that they were not too easy to 
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/aoJpXt3.png">
 </div>
+
+<br>
 
 ## Second Version
 
@@ -74,6 +82,8 @@ And the last problem came as a result of the second, since I realized that some 
   <img width="700px" class="img-fluid" src="https://i.imgur.com/PtEGFQ8.png">
 </div>
 
+<br>
+
 ## Third Version
 
 The first version required the player to remove the <b>SINK</b> property of <b>WATER</b> and <b>ICE</b> in order to freeze the water and use the ice to push the <b>FLAG</b> off the <b>SKULL</b> group and win.
@@ -89,6 +99,8 @@ And the last problem, which I discovered thanks to the feedback of a classmate, 
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/uvLHgtR.png">
 </div>
+
+<br>
 
 ## Fourth Version
 
@@ -108,6 +120,8 @@ Now the catch of the level is that the player had to use the words <b>ICE</b>, <
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/5PZPnuo.png">
 </div>
+
+<br>
 
 ## Final modifications
 
@@ -135,6 +149,8 @@ With this change, the <b>ICE IS STOP</b> rule became more relevant, not only bec
 
 However, now the crystals took more leadership than the ice to move the flag, but I decided not to interfere anymore since at this point the level design was more aimed at using the crystals.
 
+<br>
+
 ## Final Version
 
 Finally, I decided to recover the <b>AND</b> and add the <b>FLOAT</b> property so that the player would have more options to choose from, and thus, make the level a little more difficult. 
@@ -153,5 +169,7 @@ The first is to solve the puzzle as planned, which is to use the <b>PUSH</b> pro
 The second solution is to take one <b>CRYSTAL</b> out of the water and turn it into a <b>FLAG</b>. It must be taken out of the water to prevent the destruction of the <b>FLAG</b> with the <b>WATER EAT FLAG</b> rule.
 
 The last solution is to modify the <b>FLAG ON ICE IS SAFE</b> rule, shortening it to <b>FLAG IS SAFE</b>, causing the water to not destroy the <b>FLAG</b> in any case, and converting other elements such as <b>ICE</b> or <b>CRYSTAL</b> into flags.
+
+<br>
 
 Last but not least, the level can be played with the code <b>8PRF-ZC2B</b> with the [beta version of the Baba is You editor.](https://hempuli.itch.io/baba-is-you-level-editor-beta)
