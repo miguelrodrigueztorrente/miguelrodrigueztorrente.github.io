@@ -15,23 +15,22 @@ summary: "A reinvented indie game of the classic Google's Dinosaur Game. Adds a 
   <img width="700px" class="img-fluid" src="https://i.imgur.com/kpdK0bH.gif">
 </div>
 
+Bardakedabra began as a university project to create an indie game related to sound. The original idea was to make a rhythm platform game, in which you had to avoid obstacles to the beat of the music, similar to other games like HarmoKnight. The idea was later changed to a simpler one, which consisted of creating a platform level in which the difficulty and music changed progressively over time.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+For this project I had to program the game in Unity, design the sprites in pixel art with Photoshop and finally compose the music with Famitracker.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For the game's design new moves were added, which could be acquired in exchange for coins that the player had to collect in each run. This improved the character's mobility and added replayability to the game, making each run more likely to reach the end.
 
-Here is some code that illustrates how we read values from the line sensors:
+<div class="text-center p-4">
+  <img width="500px" class="img-fluid" src="https://i.imgur.com/FkrtGdZ.png">
+</div>
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+Because yes, this game does have an ending when you reach 9999 points, although it's simply a thank you for playing it, along with the cover image of the game.
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+The art and sound of the game on the other hand resembles the ones of the old Game Boy games, not only because they have a retro style that I personally like, but because it is a style that has fewer details than others and allows me to polish it with more detail.
+
+<div class="text-center p-4">
+  <img width="500px" class="img-fluid" src="https://i.imgur.com/p5DBGO5.png">
+</div>
+
+You can play it in Itch.io for free in [the next link](https://bankaster.itch.io/bardakedabra).
