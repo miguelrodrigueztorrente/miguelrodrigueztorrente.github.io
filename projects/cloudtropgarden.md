@@ -33,61 +33,50 @@ Most of the airship levels in the Super Mario saga are reserved for boss levels,
 
 With this idea in mind and the Cloudtop Cruise reference, I decided in advance the different mechanics that would make up the level.
 
-<li type="disc">First, the main power up of the level would be the super leaf, which is usually ideal for levels in the clouds due to its ability to glide and elevate the flight when reaching the maximum speed running. It can also perform a spinning attack with its tail to defeat enemies.</li>
+First, the main power up of the level would be the super leaf, which is usually ideal for levels in the clouds due to its ability to glide and elevate the flight when reaching the maximum speed running. It can also perform a spinning attack with its tail to defeat enemies.
+
+Afterwards, the level will be divided into 3 different areas which will be interspersed with each other and are differentiated by theme, gameplay and difficulty.
+
+<li type="disk"><b>Gardens</b>: The easiest difficulty areas, set in green areas with bushes where the player can run long distances freely without fear of falling into the void (except for a specific jump). They are also the areas where the enemies of the level are found.</li>
 
 <br>
 
-<li type="disc">Afterwards, the level will be divided into 3 different areas which will be interspersed with each other and are differentiated by theme, gameplay and difficulty.
-
-<br>
-<br>
-
-<li type="circle"><b>Gardens</b>: The easiest difficulty areas, set in green areas with bushes where the player can run long distances freely without fear of falling into the void (except for a specific jump). They are also the areas where the enemies of the level are found.</li>
+<li type="disk"><b>Platforms</b>: Areas of intermediate difficulty intended for pure platforming. They are recognizable by being wooden surfaces held by one or several posts. They also appear occasionally in garden sections to increase the difficulty of the jumps and add variability.</li>
 
 <br>
 
-<li type="circle"><b>Platforms</b>: Areas of intermediate difficulty intended for pure platforming. They are recognizable by being wooden surfaces held by one or several posts. They also appear occasionally in garden sections to increase the difficulty of the jumps and add variability.</li>
+<li type="disk"><b>Airships</b>: The most difficult areas of the level, known for mixing platforms with different enemies. They usually have a bonus area at the end of the section that is accessed from a pipe. To access these areas you need to find the climbing vine or use the power up to fly up.</li>
 
 <br>
 
-<li type="circle"><b>Airships</b>: The most difficult areas of the level, known for mixing platforms with different enemies. They usually have a bonus area at the end of the section that is accessed from a pipe. To access these areas you need to find the climbing vine or use the power up to fly up.</li>
+Then I selected some mechanics in line with the theme of the different areas. With the garden areas, the ramps and curves would be used to slide and the vines to access the airships, and in the airships the pipes can be used to access the interior of the ship.
+
+Finally, the enemies that are used in the level are:
+
+<li type="disk"><b>Galoombas</b>: Similar to Goombas except that jumping on them does not destroy them but rather knocks them down, allowing the player to grab them to eliminate other enemies. I chose this enemy because in addition to being a basic enemy to defeat with a jump, it is easier to deal with it with the super leaf and it encourages the player to use the grab mechanic, which is used by pressing the run button, used also to fly with the super leaf.</li>
 
 <br>
 
-</li>
-<li type="disc">Then I selected some mechanics in line with the theme of the different areas. With the garden areas, the ramps and curves would be used to slide and the vines to access the airships, and in the airships the pipes can be used to access the interior of the ship.</li>
-
-<br>
-
-<li type="disc">Finally, the enemies that are used in the level are:
-
-<br>
-<br>
-
-<li type="circle"><b>Galoombas</b>: Similar to Goombas except that jumping on them does not destroy them but rather knocks them down, allowing the player to grab them to eliminate other enemies. I chose this enemy because in addition to being a basic enemy to defeat with a jump, it is easier to deal with it with the super leaf and it encourages the player to use the grab mechanic, which is used by pressing the run button, used also to fly with the super leaf.</li>
-
-<br>
-
-<li type="circle"><b>Wiggler</b>: Mechanically an evolution of the Galoomba, since in addition to being larger it is not knocked down when jumping on top, but also when doing so it gets angry and chases the player. It is also a rare enemy in the saga, which increases the differentiation of the level from the rest. This enemy can be defeated with a tail attack from the super leaf and can usually be found in settings with forests, gardens, pipes and some special levels.
+<li type="disk"><b>Wiggler</b>: Mechanically an evolution of the Galoomba, since in addition to being larger it is not knocked down when jumping on top, but also when doing so it gets angry and chases the player. It is also a rare enemy in the saga, which increases the differentiation of the level from the rest. This enemy can be defeated with a tail attack from the super leaf and can usually be found in settings with forests, gardens, pipes and some special levels.
 </li>
 
 <br>
 
-<li type="circle"><b>Bullet Bill</b>: Enemy that constantly spun and moves in a straight line through the air. He can be defeated in one fell swoop and is useful for compromising the player's jump on other occasions.</li>
+<li type="disk"><b>Bullet Bill</b>: Enemy that constantly spun and moves in a straight line through the air. He can be defeated in one fell swoop and is useful for compromising the player's jump on other occasions.</li>
 
 <br>
 
-<li type="circle"><b>Canon Ball</b>: Similar to bullet bills but they are smaller in size, which makes them more difficult to eliminate and they can also move diagonally.</li>
+<li type="disk"><b>Canon Ball</b>: Similar to bullet bills but they are smaller in size, which makes them more difficult to eliminate and they can also move diagonally.</li>
 
 <br>
 
-<li type="circle"><b>Boomerang Bro</b>: Enemies that throw boomerangs, which advance in a straight line and then return in the same direction. They are enemies that move slightly to the sides and jump constantly (they climb onto the platform above them if it is less than five blocks high) making it difficult to eliminate them.</li>
-</li>
+<li type="disk"><b>Boomerang Bro</b>: Enemies that throw boomerangs, which advance in a straight line and then return in the same direction. They are enemies that move slightly to the sides and jump constantly (they climb onto the platform above them if it is less than five blocks high) making it difficult to eliminate them.</li>
 
-<br>
 <br>
 
 # Prototypes
+
+<br>
 
 ## First version
 
