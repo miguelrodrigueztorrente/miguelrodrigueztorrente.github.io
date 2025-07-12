@@ -32,7 +32,7 @@ So I decided that in my level the player had to create different elements with t
 The first idea of the level that I thought of, taking advantage of the MAKE property, was that the player had to create a large version of Baba and then take control of it and with it solve the puzzle.
 
 <div class="text-center p-4">
-  <img width="700px" class="img-fluid" src="https://i.imgur.com/BAhyGd1.png">
+  <img width="500px" class="img-fluid" src="https://i.imgur.com/BAhyGd1.png">
 </div>
 
 There were three materials that worked well when creating large masses of elements, not only because when different pieces were put together they formed a single piece, but it also made logical sense taking into account the material used.
