@@ -11,11 +11,14 @@ labels:
   - Game Design
 summary: "A reinvented indie game of the classic Google's Dinosaur Game. Adds a new visual style, new mechanics, replayability, and an ending to the game."
 ---
+
+# Introduction
+
+Bardakedabra began as a university project to create an indie game related to sound. The original idea was to make a rhythm platform game, in which you had to avoid obstacles to the beat of the music, similar to other games like HarmoKnight. The idea was later changed to a simpler one, which consisted of creating a platform level in which the difficulty and music changed progressively over time.
+
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/kpdK0bH.gif">
 </div>
-
-Bardakedabra began as a university project to create an indie game related to sound. The original idea was to make a rhythm platform game, in which you had to avoid obstacles to the beat of the music, similar to other games like HarmoKnight. The idea was later changed to a simpler one, which consisted of creating a platform level in which the difficulty and music changed progressively over time.
 
 For this project I had to program the game in Unity, design the sprites in pixel art with Photoshop and finally compose the music with Famitracker.
 
