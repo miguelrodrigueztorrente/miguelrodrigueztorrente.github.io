@@ -13,6 +13,8 @@ summary: "A reinvented indie game of the classic Google's Dinosaur Game. Adds a 
 ---
 <div class="text-center p-4">
   <img width="700px" class="img-thumbnail" src="https://i.imgur.com/kpdK0bH.gif">
+  <img width="390px" class="img-fluid" src="https://i.imgur.com/kpdK0bH.gif">
+  <img width="390px" class="img-thumbnail" src="https://i.imgur.com/kpdK0bH.gif">
 </div>
 
 
