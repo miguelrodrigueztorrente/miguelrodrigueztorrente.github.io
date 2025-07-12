@@ -99,7 +99,7 @@ Also taking advantage of the feedback from playtesting, I focused on the idea of
 ## Final version and design process
 
 <div class="text-center p-4">
-  <img width="1000px" class="img-fluid" src="https://i.imgur.com/XgQeBE6.jpeg">
+  <img width="1200px" class="img-fluid" src="https://i.imgur.com/XgQeBE6.jpeg">
 </div>
 
 The first thing I did before creating the level was to make a layout with paper and pencil. I did this to be able to count and calculate the jumps with greater precision as well as have a more extensive and general vision of the level.
