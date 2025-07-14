@@ -10,7 +10,7 @@ labels:
   - Unity
   - Game Design
 summary: "A reinvented indie game of the classic Google's Dinosaur Game. Adds a new visual style, new mechanics, replayability, and an ending to the game."
-projecturl: https://bankaster.itch.io/bardakedabra
+projecturl: projects/index.html
 ---
 
 # Introduction
