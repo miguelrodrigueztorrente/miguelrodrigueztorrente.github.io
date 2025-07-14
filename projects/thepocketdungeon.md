@@ -10,6 +10,7 @@ labels:
   - Twine
   - Narrative Adventure
 summary: "A narrative-driven game with decision-making, where the player's choices can lead to different endings."
+projecturl: projects/ThePocketDungeon.html
 ---
 
 <div class="text-center p-4">
