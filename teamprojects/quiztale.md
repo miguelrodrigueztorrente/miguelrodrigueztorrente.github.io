@@ -10,6 +10,7 @@ labels:
   - Game Jam
   - Pixel Art
 summary: "A trivia game in which you have to answer as many questions as possible correctly to get a good ending."
+projecturl: teamprojects/quizztale_build/index.html
 ---
 
 <div class="text-center p-4">
