@@ -10,6 +10,7 @@ labels:
   - Top Down Shooter
   - 3D Modelling Art
 summary: "A 3D action shooting game based in the Marvel's Universe, with three playable levels and two diferent bosses."
+projecturl: https://github.com/ProjectWastelanders/ProjectWastelanders/releases/download/1.0/GOTG_The_Bet.zip
 ---
 
 <div class="text-center p-4">
