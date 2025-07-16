@@ -25,7 +25,7 @@ It is mainly inspired by a track of the Mario Kart 8 video game, Cloudtop Cruise
 
 Part of the inspiration when making the level was to create a level that would allow the player to run freely through gardens in the clouds and in some circumstances be able to access the flying ships that flew over them.
 
-Most of the airship levels in the Super Mario saga are reserved for boss levels, the idea was to bring a calmer version of these levels and adapt it to a Super Mario “cloud” level, usually those in which the world is set in the clouds, such as the world 5 of Super Mario Bros. 3(1988) or the world 7 of Super Mario Bros. Wii(2009). 
+Most of the airship levels in the Super Mario saga are reserved for boss levels, the idea was to bring a calmer version of these levels and adapt it to a Super Mario “cloud” level, usually those in which the world is set in the clouds, such as the world 5 of Super Mario Bros. 3 (1988) or the world 7 of Super Mario Bros. Wii (2009). 
 
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/SP7QE1k.png">
