@@ -58,6 +58,8 @@ I also decided to include an ending to the game. This not only made it more dist
 
 I also decided to redo the game's audio that my colleague had created, and in this case I used Famitracker, a music-generating program for the NES/Famicom systems. Since the old version didn't take advantage of any of the original rhythm game concept, I decided to compose a theme that would progress as the character progressed through the run. This song that plays during each run, which I called Creschendo March, is made up of four loops that repeat continuously. Each loop adds new notes, making the song increasingly more elaborate.
 
+<br>
+
 ## Final Version
 
 Finally, I created a main menu so you can enter the game without starting a run directly and take a break between runs if you wish. This menu displays the game title and a small text indicating which key to use to start the game, which also serves as a mini-tutorial for the game's controls.
@@ -75,6 +77,6 @@ Since I wasn't entirely convinced by the logo, I decided to redo it so it would 
 Finally, I decided to add a few credits with my name on the title screen and fixed some general game issues so that it can also work in windowed mode. However, due to the game's configuration, it offers slightly more room to react when playing in full screen, since the character and obstacles are positioned further apart than in windowed mode.
 
 You can play this game in [Itch.io.](https://bankaster.itch.io/bardakedabra) or in the next button in the browser:
-<div class="text-center p-4">
-  <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Play Game</a>
+<div class="text-center p-3">
+  <a href="projects/bardakedabra_build/index.html" class="btn btn-outline-dark">Play Game</a>
 </div>
