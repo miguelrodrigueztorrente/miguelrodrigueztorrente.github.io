@@ -69,14 +69,12 @@ Finally, I created a main menu so you can enter the game without starting a run 
 Since I wasn't entirely convinced by the logo, I decided to redo it so it would stand out a little more from the background. That's why the new version changed its color to yellow, which served as a complementary color to purple. I also removed the little hat from the logo as I felt it wasn't quite polished, and for time reasons I decided not to reimplement it.
 
 <div class="text-center p-4">
-  <img width="400px" class="img-fluid" src="https://i.imgur.com/wgNsuE3.png">
+  <img width="700px" class="img-fluid" src="https://i.imgur.com/wgNsuE3.png">
 </div>
 
 Finally, I decided to add a few credits with my name on the title screen and fixed some general game issues so that it can also work in windowed mode. However, due to the game's configuration, it offers slightly more room to react when playing in full screen, since the character and obstacles are positioned further apart than in windowed mode.
 
-You can play this game in Itch.io and in the next button in te browser:
+You can play this game in [Itch.io.](https://bankaster.itch.io/bardakedabra) or in the next button in the browser:
 <div class="text-center p-4">
   <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Play Game</a>
 </div>
-
-
