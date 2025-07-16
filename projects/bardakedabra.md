@@ -78,5 +78,5 @@ Finally, I decided to add a few credits with my name on the title screen and fix
 
 You can play this game in [Itch.io.](https://bankaster.itch.io/bardakedabra) or in the next button in the browser:
 <div class="text-center p-3">
-  <a href="projects/bardakedabra_build/index.html" class="btn btn-outline-dark">Play Game</a>
+  <a href="bardakedabra_build/index.html" class="btn btn-outline-dark">Play Game</a>
 </div>
