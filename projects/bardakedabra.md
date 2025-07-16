@@ -73,3 +73,10 @@ Since I wasn't entirely convinced by the logo, I decided to redo it so it would 
 </div>
 
 Finally, I decided to add a few credits with my name on the title screen and fixed some general game issues so that it can also work in windowed mode. However, due to the game's configuration, it offers slightly more room to react when playing in full screen, since the character and obstacles are positioned further apart than in windowed mode.
+
+You can play this game in Itch.io and in the next button in te browser:
+<div class="text-center p-4">
+  <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Play Game</a>
+</div>
+
+
