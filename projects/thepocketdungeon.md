@@ -47,15 +47,15 @@ That is why, during this development phase, the character and background illustr
 The first thing I did for the second version of the project was redo all the game's images using a technique I used on a previous project called [QuizzTale](https://miguelrodrigueztorrente.github.io/teamprojects/quizztale.html). This technique involved drawing pixel art with only two colors: black for the background and white for the elements of the image. This shortened production time and achieved a distinctive style for the game. However, for some characters, I also had to make some adjustments to differentiate them slightly from their original versions.
 
 <div class="text-center p-4">
-  <img width="250px" class="img-fluid" src="https://i.imgur.com/hBHjih6.png">
-  <img width="250px" class="img-fluid" src="https://i.imgur.com/cwY9Hja.png">
+  <img width="400px" class="img-fluid" src="https://i.imgur.com/hBHjih6.png">
+  <img width="400px" class="img-fluid" src="https://i.imgur.com/cwY9Hja.png">
 </div>
 
 Another technique I used to replace the old images was to remake them using photographs of real-world places and objects. In the previous image of the knight, for example, I used a stewpot as a base for drawing his helmet. On the other hand, in the illustration showing an image of the dungeon's capital, I used an image of one of the streets of Subiaco, a municipality in Italy.
 
 <div class="text-center p-4">
-  <img width="400px" class="img-fluid" src="https://i.imgur.com/r8itkkG.jpeg">
-  <img width="400px" class="img-fluid" src="https://i.imgur.com/sY8QCXp.png">
+  <img height="400px" class="img-fluid" src="https://i.imgur.com/r8itkkG.jpeg">
+  <img height="400px" class="img-fluid" src="https://i.imgur.com/sY8QCXp.png">
 </div>
 
 Finally, for this version, I also made some adjustments to the narrative and added a new alternate ending, which turns out to be a bad ending. I added this ending near the end of the main story because I noticed that the story tended to become too linear toward the end and there weren't as many choices as there were at the beginning. That's why I added this ending as a joke, referencing a scene from one of the old Disney movies. I won't mention which one in case you want to discover it on your own.
@@ -66,9 +66,11 @@ Finally, for this version, I also made some adjustments to the narrative and add
 Halfway through the second version, when most of the original artwork had been replaced with original pixel art, I decided to take advantage and translate the game into two additional languages that could be selected at the beginning of the story. Originally, the story was only in Spanish, but I decided to also include Catalan and English to increase the reach of potential players. The story and conversations are practically identical, except for a couple of changes to one illustration that showed a sign with letters on it.
 
 <div class="text-center p-4">
-  <img width="250px" class="img-fluid" src="https://i.imgur.com/piNZH4i.png">
-  <img width="250px" class="img-fluid" src="https://i.imgur.com/HFP8HKK.png">
-  <img width="250px" class="img-fluid" src="https://i.imgur.com/ulLodKU.png">
+  <img width="200px" class="img-fluid" src="https://i.imgur.com/piNZH4i.png">
+  <img width="200px" class="img-fluid" src="https://i.imgur.com/HFP8HKK.png">
+  <img width="200px" class="img-fluid" src="https://i.imgur.com/ulLodKU.png">
 </div>
 
-The image and text will change depending on the language the player chooses at the beginning of the adventure. Finally, if you'd like to play The Pocket Dungeon yourself, you can do so in your web browser using the following button: <a href="projects/ThePocketDungeon.html" class="btn btn-outline-dark">Play The Pocket Dungeon</a>
+The image and text will change depending on the language the player chooses at the beginning of the adventure. 
+
+Finally, if you'd like to play The Pocket Dungeon yourself, you can do so in your web browser using the following button: <a href="projects/ThePocketDungeon.html" class="btn btn-outline-dark">Play The Pocket Dungeon</a>
