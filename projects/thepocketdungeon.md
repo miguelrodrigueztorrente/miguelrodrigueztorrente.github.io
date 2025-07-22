@@ -63,3 +63,12 @@ Finally, for this version, I also made some adjustments to the narrative and add
 <br>
 
 ## Final Version
+Halfway through the second version, when most of the original artwork had been replaced with original pixel art, I decided to take advantage and translate the game into two additional languages that could be selected at the beginning of the story. Originally, the story was only in Spanish, but I decided to also include Catalan and English to increase the reach of potential players. The story and conversations are practically identical, except for a couple of changes to one illustration that showed a sign with letters on it.
+
+<div class="text-center p-4">
+  <img width="250px" class="img-fluid" src="https://i.imgur.com/piNZH4i.png">
+  <img width="250px" class="img-fluid" src="https://i.imgur.com/HFP8HKK.png">
+  <img width="250px" class="img-fluid" src="https://i.imgur.com/ulLodKU.png">
+</div>
+
+The image and text will change depending on the language the player chooses at the beginning of the adventure. Finally, if you'd like to play The Pocket Dungeon yourself, you can do so in your web browser using the following button:
