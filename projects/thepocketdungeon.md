@@ -37,5 +37,29 @@ From there, I began to shape the story by creating the different characters, eac
 <br>
 
 ## First Version
+The first version of the game had a total of four endings. A couple of them were alternative endings to the main story, one was considered a bad ending, and the other was a true ending achieved by solving the main story of the adventure. These endings consist of an image highlighted with a frame and followed by a message mentioning the ending number and its name. However, for the first version of the game, these images were less important since the project consisted of creating a narrative adventure with Twine, and the narrative was more important. Therefore, the images, while useful for illustrating some parts of the story, were secondary at this stage of the project.
 
+That is why, during this development phase, the character and background illustrations belonged to other existing franchises, such as Dark Souls or World of Warcraft. This helped me build the story more quickly and lighten the workload in character building; however, for future versions I knew I had to change this aspect if I wanted the project to be original.
 
+<br>
+
+## Second Version
+The first thing I did for the second version of the project was redo all the game's images using a technique I used on a previous project called QuizzTale. This technique involved drawing pixel art with only two colors: black for the background and white for the elements of the image. This shortened production time and achieved a distinctive style for the game. However, for some characters, I also had to make some adjustments to differentiate them slightly from their original versions.
+
+<div class="text-center p-4">
+  <img width="250px" class="img-fluid" src="https://i.imgur.com/hBHjih6.png">
+  <img width="250px" class="img-fluid" src="https://i.imgur.com/cwY9Hja.png">
+</div>
+
+Another technique I used to replace the old images was to remake them using photographs of real-world places and objects. In the previous image of the knight, for example, I used a stewpot as a base for drawing his helmet. On the other hand, in the illustration showing an image of the dungeon's capital, I used an image of one of the streets of Subiaco, a municipality in Italy.
+
+<div class="text-center p-4">
+  <img width="400px" class="img-fluid" src="https://i.imgur.com/r8itkkG.jpeg">
+  <img width="400px" class="img-fluid" src="https://i.imgur.com/sY8QCXp.png">
+</div>
+
+Finally, for this version, I also made some adjustments to the narrative and added a new alternate ending, which turns out to be a bad ending. I added this ending near the end of the main story because I noticed that the story tended to become too linear toward the end and there weren't as many choices as there were at the beginning. That's why I added this ending as a joke, referencing a scene from one of the old Disney movies. I won't mention which one in case you want to discover it on your own.
+
+<br>
+
+## Final Version
