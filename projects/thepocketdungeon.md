@@ -44,7 +44,7 @@ That is why, during this development phase, the character and background illustr
 <br>
 
 ## Second Version
-The first thing I did for the second version of the project was redo all the game's images using a technique I used on a previous project called QuizzTale. This technique involved drawing pixel art with only two colors: black for the background and white for the elements of the image. This shortened production time and achieved a distinctive style for the game. However, for some characters, I also had to make some adjustments to differentiate them slightly from their original versions.
+The first thing I did for the second version of the project was redo all the game's images using a technique I used on a previous project called [QuizzTale](https://miguelrodrigueztorrente.github.io/teamprojects/quizztale.html). This technique involved drawing pixel art with only two colors: black for the background and white for the elements of the image. This shortened production time and achieved a distinctive style for the game. However, for some characters, I also had to make some adjustments to differentiate them slightly from their original versions.
 
 <div class="text-center p-4">
   <img width="250px" class="img-fluid" src="https://i.imgur.com/hBHjih6.png">
@@ -71,4 +71,4 @@ Halfway through the second version, when most of the original artwork had been r
   <img width="250px" class="img-fluid" src="https://i.imgur.com/ulLodKU.png">
 </div>
 
-The image and text will change depending on the language the player chooses at the beginning of the adventure. Finally, if you'd like to play The Pocket Dungeon yourself, you can do so in your web browser using the following button:
+The image and text will change depending on the language the player chooses at the beginning of the adventure. Finally, if you'd like to play The Pocket Dungeon yourself, you can do so in your web browser using the following button: <a href="projects/ThePocketDungeon.html" class="btn btn-outline-dark">Play The Pocket Dungeon</a>
