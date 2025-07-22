@@ -29,7 +29,7 @@ The original inspiration comes from an expansion for the Hearstone game called K
 For this project I wanted to make a classic dungeon adventure, so I took this Hearstone expansion as a starting point, beginning by reusing the concept of a large dungeon enclosed behind a small door that appears in the trailer for said expansion.
 
 <div class="text-center p-4">
-  <img width="500px" class="img-fluid" src="https://i.imgur.com/Vf9P7FE.png">
+  <img width="600px" class="img-fluid" src="https://i.imgur.com/Vf9P7FE.png">
 </div>
 
 From there, I began to shape the story by creating the different characters, each with their own unique problems and goals. The idea was to create a story where the player could choose their path, encountering these characters, but I knew I couldn't cover too much, or the ramifications of the story would be too much work. That's why I tried to create a story that could branch off at different points, but small enough to complete its narrative and give it a closed ending. This concept of a small story was what gave me the idea to make the dungeon literally small, enough to fit inside a pocket. This is how I created the beginning of the handle that summons the dungeon door.
@@ -54,7 +54,7 @@ The first thing I did for the second version of the project was redo all the gam
 Another technique I used to replace the old images was to remake them using photographs of real-world places and objects. In the previous image of the knight, for example, I used a stewpot as a base for drawing his helmet. On the other hand, in the illustration showing an image of the dungeon's capital, I used an image of one of the streets of Subiaco, a municipality in Italy.
 
 <div class="text-center p-4">
-  <img width="500px" class="img-fluid" src="https://i.imgur.com/lmCSXsg.png">
+  <img width="700px" class="img-fluid" src="https://i.imgur.com/lmCSXsg.png">
 </div>
 
 Finally, for this version, I also made some adjustments to the narrative and added a new alternate ending, which turns out to be a bad ending. I added this ending near the end of the main story because I noticed that the story tended to become too linear toward the end and there weren't as many choices as there were at the beginning. That's why I added this ending as a joke, referencing a scene from one of the old Disney movies. I won't mention which one in case you want to discover it on your own.
