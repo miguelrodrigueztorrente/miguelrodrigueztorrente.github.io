@@ -54,8 +54,8 @@ The first thing I did for the second version of the project was redo all the gam
 Another technique I used to replace the old images was to remake them using photographs of real-world places and objects. In the previous image of the knight, for example, I used a stewpot as a base for drawing his helmet. On the other hand, in the illustration showing an image of the dungeon's capital, I used an image of one of the streets of Subiaco, a municipality in Italy.
 
 <div class="text-center p-4">
-  <img height="400px" class="img-fluid" src="https://i.imgur.com/r8itkkG.jpeg">
-  <img height="400px" class="img-fluid" src="https://i.imgur.com/sY8QCXp.png">
+  <img height="300px" class="img-fluid" src="https://i.imgur.com/r8itkkG.jpeg">
+  <img height="300px" class="img-fluid" src="https://i.imgur.com/sY8QCXp.png">
 </div>
 
 Finally, for this version, I also made some adjustments to the narrative and added a new alternate ending, which turns out to be a bad ending. I added this ending near the end of the main story because I noticed that the story tended to become too linear toward the end and there weren't as many choices as there were at the beginning. That's why I added this ending as a joke, referencing a scene from one of the old Disney movies. I won't mention which one in case you want to discover it on your own.
