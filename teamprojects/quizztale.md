@@ -15,7 +15,7 @@ projecturl: teamprojects/quizztale_build/index.html
 
 # Introduction
 
-QuizzTale is a trivia game developed by four people for a university game jam. In this game, the player must answer as many questions correctly as possible to help the protagonist achieve her dream of becoming an astronaut. Depending on the player's decisions and correct answers, the story will lead to a good or bad ending.
+Quizz Tale is a trivia game developed by four people for a university game jam. In this game, the player must answer as many questions correctly as possible to help the protagonist achieve her dream of becoming an astronaut. Depending on the player's decisions and correct answers, the story will lead to a good or bad ending.
 
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/QPJrUhp.png">
@@ -58,4 +58,4 @@ In addition to the visual style, I was also in charge of creating the designs fo
 
 The protagonist's adult hair design ended up resembling a mermaid's tail; however, we liked how it served to identify the character and resulted in an original style, so we decided to keep it. We even took advantage of this feature and added the pigtails themselves to the game's logo to give it more personality.
 
-Finally, you can play QuizzTale in your browser using the following button: <a href="quizztale_build/index.html" class="btn btn-outline-dark">Play QuizzTale</a>
+Finally, you can play Quizz Tale in your browser using the following button: <a href="quizztale_build/index.html" class="btn btn-outline-dark">Play Quizz Tale</a>
