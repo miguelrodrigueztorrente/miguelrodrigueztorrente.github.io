@@ -30,7 +30,7 @@ This was the first game jam and one of the first games I participated in develop
 Since we had just entered university, we knew we couldn't make an overly complicated game, so we decided to keep it simple so we could polish and fix any issues that arose during development. A big inspiration for the game's design was another trivia game called Majotori by Alva Majo. In this game, the future of several characters depends on the number of questions the player answers correctly, and the number of correct answers increases the probability of a good ending.
 
 <div class="text-center p-4">
-  <img width="600px" class="img-fluid" src="https://i.imgur.com/clma7yY.png">
+  <img width="500px" class="img-fluid" src="https://i.imgur.com/clma7yY.png">
 </div>
 
 However, in order not to copy Majotori, we decided that in our game the number of correct answers would not increase the probability, but that the player would need a minimum number already established to be able to get the good ending instead.
@@ -44,7 +44,7 @@ Once we had the idea for the game in mind, we had to get right to developing it,
 As part of the art team, my job, along with a colleague, was to create the illustrations that would depict the different events in our character's story. To create these illustrations and save as much time as possible, we used a pixel art technique similar to other games like Undertale by Toby Fox.
 
 <div class="text-center p-4">
-  <img width="600px" class="img-fluid" src="https://i.imgur.com/cOkkovT.png">
+  <img width="500px" class="img-fluid" src="https://i.imgur.com/cOkkovT.png">
 </div>
 
 In this game, when the player enters combat, the enemy is shown in full monochrome with occasional colored elements depending on the enemy. To save time, we decided to use this same technique and draw all events in white on a black background. We also took as a reference the occasional color in some of the game's battles and decided that our illustrations would always have at least one colored element.
