@@ -58,4 +58,6 @@ In addition to the visual style, I was also in charge of creating the designs fo
 
 The protagonist's adult hair design ended up resembling a mermaid's tail; however, the way it served to identify the character and resulted in an original style wasn't liked, and we decided to keep it. We even took advantage of this feature and added the pigtails themselves to the game's logo to give it more personality.
 
-Finally, you can play QuizzTale in your browser using the following button:
+Finally, you can play QuizzTale in your browser using the following button: <a href="
+
+https://miguelrodrigueztorrente.github.io/teamprojects/quizztale_build/index.html" class="btn btn-outline-dark">Play QuizzTale</a>
