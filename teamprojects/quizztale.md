@@ -52,12 +52,10 @@ In this game, when the player enters combat, the enemy is shown in full monochro
 In addition to the visual style, I was also in charge of creating the designs for some of the story's characters, especially the protagonist's. Since this was a game in which the character was growing, I wanted to add some element to the character that would remain the same over time so the player could always recognize her at a glance. We came up with the idea of using the spiky pigtails I drew in one of the illustrations of the protagonist when she was a child, and we decided to keep them as she grew. At first, we thought that if the protagonist always wore pigtails, it would be harder to show that she had grown, so we only kept the two pigtails themselves, so if her hair grew, it would end up in two pigtails, instead of just having two very long pigtails.
 
 <div class="text-center p-4">
-  <img width="600px" class="img-fluid" src="https://i.imgur.com/mdU66gL.png">
-  <img width="600px" class="img-fluid" src="https://i.imgur.com/uzvRrNz.png">
+  <img width="300px" class="img-fluid" src="https://i.imgur.com/mdU66gL.png">
+  <img width="300px" class="img-fluid" src="https://i.imgur.com/uzvRrNz.png">
 </div>
 
 The protagonist's adult hair design ended up resembling a mermaid's tail; however, the way it served to identify the character and resulted in an original style wasn't liked, and we decided to keep it. We even took advantage of this feature and added the pigtails themselves to the game's logo to give it more personality.
 
-Finally, you can play QuizzTale in your browser using the following button: <a href="
-
-https://miguelrodrigueztorrente.github.io/teamprojects/quizztale_build/index.html" class="btn btn-outline-dark">Play QuizzTale</a>
+Finally, you can play QuizzTale in your browser using the following button: <a href="quizztale_build/index.html" class="btn btn-outline-dark">Play QuizzTale</a>
