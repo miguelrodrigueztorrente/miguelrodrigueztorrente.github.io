@@ -15,12 +15,16 @@ projecturl: teamprojects/quizztale_build/index.html
 
 # Introduction
 
-Bardakedabra is an plattformer indie game made with Unity where the player has to avoid a series of obstacles which appear faster as the games goes on. It is strongly inspired by the famous endless runner Google's Dinosaur Game but each run the player has the chance to improve the character so it gets further every run.
+QuizzTale is a trivia game developed by four people for a university game jam. In this game, the player must answer as many questions correctly as possible to help the protagonist achieve her dream of becoming an astronaut. Depending on the player's decisions and correct answers, the story will lead to a good or bad ending.
 
 <div class="text-center p-4">
-  <img width="700px" class="img-fluid" src="https://i.imgur.com/kpdK0bH.gif">
+  <img width="700px" class="img-fluid" src="https://i.imgur.com/QPJrUhp.png">
 </div>
 
 <br>
 
-## First Version
+## Initial Concept
+
+This was the first game jam and one of the first games I participated in developing. For this project, there were four people, including myself, who all worked on the game design. However, two colleagues were in charge of programming, while another colleague and I worked on the game art.
+
+
