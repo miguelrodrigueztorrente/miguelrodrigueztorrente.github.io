@@ -72,4 +72,4 @@ Halfway through the second version, when most of the original artwork had been r
 
 The image and text will change depending on the language the player chooses at the beginning of the adventure. 
 
-Finally, if you'd like to play The Pocket Dungeon yourself, you can do so in your web browser using the following button: <a href="projects/ThePocketDungeon.html" class="btn btn-outline-dark">Play The Pocket Dungeon</a>
+Finally, if you'd like to play The Pocket Dungeon yourself, you can do so in your web browser using the following button: <a href="ThePocketDungeon.html" class="btn btn-outline-dark">Play The Pocket Dungeon</a>
