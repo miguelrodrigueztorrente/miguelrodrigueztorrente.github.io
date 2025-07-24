@@ -100,6 +100,28 @@ By the tenth week, we were already approaching the deadline, and for the first t
 For this character, I followed the same conceptualization process, however, this time I modeled it first in ZBrush and then did the retopology in Autodesk Maya. This gave me more freedom when it came to creating details and the character's anatomy, which was helpful since this character was the largest in the project and would be the one with the most noticeable details.
 
 <div class="text-center p-4">
-  <img width="900px" class="img-fluid" src="https://i.imgur.com/oQyu6hl.png">
+  <img width="900px" class="img-fluid" src="https://i.imgur.com/CLUUoPi.jpeg">
 </div>
 
+<br>
+
+## Twelfth and thirteenth week
+
+Over the next few weeks, all the modeling work was completed, and the art team was able to focus on developing the cinematics. While the majority of the team was polishing and fixing some issues, a colleague and I began to fine-tune the cinematics. Until now, I was in charge of conceptualizing the script, which the designer provided, but now I had to move from the concept to the polished drawing, allowing another colleague to complete the line art and, finally, color the pages.
+
+
+<div class="text-center p-4">
+  <img height="200px" class="img-fluid" src="https://i.imgur.com/5nrTe0d.png">
+  <img height="200px" class="img-fluid" src="https://i.imgur.com/Ri0eo9Q.png">
+</div>
+<div class="text-center p-4">
+Concept and drawing of the first page of the second cutscene
+</div>
+
+<div class="text-center p-4">
+  <img height="200px" class="img-fluid" src="https://i.imgur.com/C7uoLpq.png">
+  <img height="200px" class="img-fluid" src="https://i.imgur.com/qLtWi3Q.png">
+</div>
+<div class="text-center p-4">
+Concept and drawing of the fourth page of the second cutscene
+</div>
