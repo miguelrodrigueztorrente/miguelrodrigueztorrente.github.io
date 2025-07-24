@@ -56,23 +56,23 @@ The new versions had clearer, more defined silhouettes and fewer small details t
 It took me a couple of iterations, but thanks to the advice from the professors and the communication between the design team and the art team, we achieved stylized designs that met the design team's expectations.
 
 <div class="text-center p-4">
-  <img width="300px" class="img-fluid" src="https://i.imgur.com/qiB0zih.png">
-  <img width="300px" class="img-fluid" src="https://i.imgur.com/15Sq77i.png">
+  <img width="350px" class="img-fluid" src="https://i.imgur.com/qiB0zih.png">
+  <img width="350px" class="img-fluid" src="https://i.imgur.com/15Sq77i.png">
 </div>
 <div class="text-center p-4">
 Old and new design of the shooter enemy
 </div>
 
 <div class="text-center p-4">
-  <img width="1000px" class="img-fluid" src="https://i.imgur.com/51LtRgd.png">
+  <img width="900px" class="img-fluid" src="https://i.imgur.com/51LtRgd.png">
 </div>
 <div class="text-center p-4">
 New design of the tank enemy
 </div>
 
 <div class="text-center p-4">
-  <img width="1000px" class="img-fluid" src="https://i.imgur.com/zA558aX.png">
-  <img width="1000px" class="img-fluid" src="https://i.imgur.com/qKMV5NN.png">
+  <img width="900px" class="img-fluid" src="https://i.imgur.com/zA558aX.png">
+  <img width="900px" class="img-fluid" src="https://i.imgur.com/qKMV5NN.png">
 </div>
 <div class="text-center p-4">
 Old and new design of the melee enemy
@@ -82,4 +82,15 @@ Old and new design of the melee enemy
 
 ## Seventh and eighth week
 
+During these weeks, our development time was extended due to the workload. By the time the character design adjustments were made, part of the 3D modeling had already begun, so during these weeks the art team had to continue producing while retouching the work done previously.
 
+During these weeks, I was in charge of reworking the melee enemy model and fixing a couple of issues that arose with its texturing. Additionally, the design team added a miniboss to the workload. So, once the melee enemy was finished, I was assigned to model and texturize both the new miniboss (which was designed by a colleague) and the tank enemy I designed myself.
+
+<div class="text-center p-4">
+  <img height="350px" class="img-fluid" src="https://i.imgur.com/7HGdVgc.png">
+  <img height="350px" class="img-fluid" src="https://i.imgur.com/6UMSV3w.png">
+</div>
+
+<br>
+
+## Tenth and eleventh week
