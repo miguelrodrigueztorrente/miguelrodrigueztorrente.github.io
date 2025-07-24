@@ -78,7 +78,6 @@ In said building the player has to avoid a series of zombies without being seen 
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/JYrHTtM.png">
 </div>
-
 <div class="text-center p-4">
   Reference of the type of buildings of the power plant (similar to the Capdella Hydroelectric Power Plant, Catalonia).
 </div>
@@ -86,7 +85,6 @@ In said building the player has to avoid a series of zombies without being seen 
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/F8sce3p.png">
 </div>
-
 <div class="text-center p-4">
   Reference for generator room (similar to the Capdella Hydroelectric Power Plant, Catalonia).
 </div>
@@ -94,7 +92,6 @@ In said building the player has to avoid a series of zombies without being seen 
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/EpjXuhM.png">
 </div>
-
 <div class="text-center p-4">
   Reference of the interior of the power plant facilities (Call of Duty: Advanced Warfare)
 </div>
@@ -102,7 +99,6 @@ In said building the player has to avoid a series of zombies without being seen 
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/ePgOE3b.png">
 </div>
-
 <div class="text-center p-4">
   Reference of the esthetics and some of the elements of the facilities.
 </div>
