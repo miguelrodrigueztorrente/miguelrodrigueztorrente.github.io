@@ -19,7 +19,7 @@ The Power Plant is a third-person action level design developed by two people an
 The Power Plant is the fourth of the five sections of the level that would make up the first part of the story, composed of the town suburbs, the sewers, the woods, the power plant, and the lighthouse, in that order. In this part of the level the player must sneak into a power plant full of zombies and restore the power to be able to get out of it and reach the cliff where the lighthouse is.
 
 <div class="text-center p-4">
-  <img width="700px" class="img-fluid" src="https://i.imgur.com/1QDVEps.gif">
+  <img width="700px" class="img-fluid" src="https://i.imgur.com/iSa0s9X.gif">
 </div>
 
 Each section has its guimmicks and characteristics that differentiate them from the rest, the power plant being the alternate
