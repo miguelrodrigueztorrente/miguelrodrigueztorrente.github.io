@@ -87,8 +87,8 @@ During these weeks, our development time was extended due to the workload. By th
 During these weeks, I was in charge of reworking the melee enemy model and fixing a couple of issues that arose with its texturing. Additionally, the design team added a miniboss to the workload. So, once the melee enemy was finished, I was assigned to model and texturize both the new miniboss (which was designed by a colleague) and the tank enemy I designed myself.
 
 <div class="text-center p-4">
-  <img height="200px" class="img-fluid" src="https://i.imgur.com/7HGdVgc.png">
-  <img height="200px" class="img-fluid" src="https://i.imgur.com/6UMSV3w.png">
+  <img width="300px" class="img-fluid" src="https://i.imgur.com/7HGdVgc.png">
+  <img width="480px" class="img-fluid" src="https://i.imgur.com/6UMSV3w.png">
 </div>
 
 <br>
@@ -111,16 +111,16 @@ Over the next few weeks, all the modeling work was completed, and the art team w
 
 
 <div class="text-center p-4">
-  <img height="200px" class="img-fluid" src="https://i.imgur.com/5nrTe0d.png">
-  <img height="200px" class="img-fluid" src="https://i.imgur.com/Ri0eo9Q.png">
+  <img width="200px" class="img-fluid" src="https://i.imgur.com/5nrTe0d.png">
+  <img width="200px" class="img-fluid" src="https://i.imgur.com/Ri0eo9Q.png">
 </div>
 <div class="text-center p-4">
 Concept and drawing of the first page of the second cutscene
 </div>
 
 <div class="text-center p-4">
-  <img height="200px" class="img-fluid" src="https://i.imgur.com/C7uoLpq.png">
-  <img height="200px" class="img-fluid" src="https://i.imgur.com/qLtWi3Q.png">
+  <img width="200px" class="img-fluid" src="https://i.imgur.com/C7uoLpq.png">
+  <img width="200px" class="img-fluid" src="https://i.imgur.com/qLtWi3Q.png">
 </div>
 <div class="text-center p-4">
 Concept and drawing of the fourth page of the second cutscene
@@ -140,4 +140,4 @@ The last few days were in sprint, and I had stopped going from concept to drawin
 
 Guardians of the Galaxy: The Bet was the first project at the university to simulate the development of a real-life video game. By having the entire class work on the same project, we learned to communicate and work as a team in a realistic way, with various deadlines and requirements to meet.
 
-You can read more about this project on the official website, or you can download a zip file to play it yourself by clicking the button below:
+You can read more about this project on the [official website](https://projectwastelanders.github.io/ProjectWastelanders/index.html), or you can download a zip file to play it yourself by clicking the button below: <a href="https://github.com/ProjectWastelanders/ProjectWastelanders/releases/download/1.0/GOTG_The_Bet.zip" class="btn btn-outline-dark">Download Guardians of the Galaxy: The Bet</a>
