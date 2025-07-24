@@ -49,9 +49,13 @@ The main objective is to infiltrate the power plant and restore the power to act
 
 This part of the level can be divided into three segments: infiltration, going to the generator, and escape.
 
+<br>
+
 ### Infiltration
 
 Just at the start of the level the player has to find a way to enter the facilities, as the main gate is closed. Next to the door there is a building and, after climbing his way inside, the player will find himself on a second floor with a closed door at his right and some stairs that go down to the first floor at his left. At the first floor, there will be a zombie (the old security guard) and the key to open said door. Once inside the closed room on the second floor, the player will find a series of windows, one of them being open, which will allow him/her to finally enter the facilities.
+
+<br>
 
 ### Going to the generator:
 
@@ -59,11 +63,15 @@ When sneaking into the facilities, the player falls from the window into an area
 
 After that the player must enter the only remaining building to try to find the switch that gets the electricity back on. Inside this building he/she must find a crowbar in the second floor (the first floor is inaccessible through the entrance), avoiding the range of vision of a zombie, to break a wall and sneak into a room that will allow the player to access the first floor through a hole in the floor. This will leave the player with no possibility of return, forcing him to advance forward until he/she is outside again but behind the building. There he/she will find a new building (the generator room) with the button to recover electricity inside. However, the button will not work because one of the gears in the room is missing. The player must find the remaining gear while avoiding the zombies in the room in order to press the button and recover the electricity.
 
+<br>
+
 ### Escape
 
 Once the electricity is activated, the player will only have one direction to go, which will be sneaking back to the previous building via a jump from the generator room. Once inside, the player will find himself in a room with a zombie, and when he leaves it he will return to the second floor where he/she founded the crowbar (due to a group of debris that served as fencing). This will force him to follow an alternative route, which will take him over a bridge (with see-through fencing to see the exit of the power plant from there and thus locate the player in the map) to the next building.
 
 In said building the player has to avoid a series of zombies without being seen until leaving the building through the first floor. Once outside, the player will find himself back outside again next to the exit, which will allow him to activate the dam this time and successfully escape the facilities.
+
+<br>
 
 ## Reference Images
 
@@ -73,23 +81,17 @@ In said building the player has to avoid a series of zombies without being seen 
 
 Reference of the type of buildings of the power plant (similar to the Capdella Hydroelectric Power Plant, Catalonia).
 
-<br>
-
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/F8sce3p.png">
 </div>
 
 Reference for generator room (similar to the Capdella Hydroelectric Power Plant, Catalonia).
 
-<br>
-
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/EpjXuhM.png">
 </div>
 
 Reference of the interior of the power plant facilities (Call of Duty: Advanced Warfare)
-
-<br>
 
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/ePgOE3b.png">
