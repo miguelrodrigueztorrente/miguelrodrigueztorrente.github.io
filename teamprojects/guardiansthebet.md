@@ -18,7 +18,7 @@ projecturl: https://github.com/ProjectWastelanders/ProjectWastelanders/releases/
 Guardians of the Galaxy: The Bet is a top-down shooter game based on Marvel's The Guardians of the Galaxy franchise. This project was developed by 29 students from the Polytechnic University of Catalonia during their third year of studies, using a C++/OpenGL engine developed by the students themselves.
 
 <div class="text-center p-4">
-  <img width="700px" class="img-fluid" src="https://i.imgur.com/kpdK0bH.gif">
+  <img width="700px" class="img-fluid" src="https://i.imgur.com/wiLllFM.gif">
 </div>
 
 This project took approximately four months to complete, with meetings every two weeks to plan and evaluate the work done over the weeks and determine whether or not to make any necessary changes. In addition to the meetings, the students divided into groups to organize themselves more easily. These groups were divided according to the branch of work to be completed: Design, Art, and Programming. Although I personally preferred the design team, I ended up working on the art team to be more efficient. Until then, I had always been assigned artistic tasks. Since this was a large-scale joint project, I preferred to remain on the art team to make things easier.
@@ -64,15 +64,15 @@ Old and new design of the shooter enemy
 </div>
 
 <div class="text-center p-4">
-  <img width="700px" class="img-fluid" src="https://i.imgur.com/51LtRgd.png">
+  <img width="1000px" class="img-fluid" src="https://i.imgur.com/51LtRgd.png">
 </div>
 <div class="text-center p-4">
 New design of the tank enemy
 </div>
 
 <div class="text-center p-4">
-  <img width="300px" class="img-fluid" src="https://i.imgur.com/zA558aX.png">
-  <img width="300px" class="img-fluid" src="https://i.imgur.com/qKMV5NN.png">
+  <img width="1000px" class="img-fluid" src="https://i.imgur.com/zA558aX.png">
+  <img width="1000px" class="img-fluid" src="https://i.imgur.com/qKMV5NN.png">
 </div>
 <div class="text-center p-4">
 Old and new design of the melee enemy
