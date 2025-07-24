@@ -88,7 +88,7 @@ During these weeks, I was in charge of reworking the melee enemy model and fixin
 
 <div class="text-center p-4">
   <img width="300px" class="img-fluid" src="https://i.imgur.com/7HGdVgc.png">
-  <img width="480px" class="img-fluid" src="https://i.imgur.com/6UMSV3w.png">
+  <img width="481px" class="img-fluid" src="https://i.imgur.com/6UMSV3w.png">
 </div>
 
 <br>
@@ -111,16 +111,16 @@ Over the next few weeks, all the modeling work was completed, and the art team w
 
 
 <div class="text-center p-4">
-  <img width="200px" class="img-fluid" src="https://i.imgur.com/5nrTe0d.png">
-  <img width="200px" class="img-fluid" src="https://i.imgur.com/Ri0eo9Q.png">
+  <img width="400px" class="img-fluid" src="https://i.imgur.com/5nrTe0d.png">
+  <img width="400px" class="img-fluid" src="https://i.imgur.com/Ri0eo9Q.png">
 </div>
 <div class="text-center p-4">
 Concept and drawing of the first page of the second cutscene
 </div>
 
 <div class="text-center p-4">
-  <img width="200px" class="img-fluid" src="https://i.imgur.com/C7uoLpq.png">
-  <img width="200px" class="img-fluid" src="https://i.imgur.com/qLtWi3Q.png">
+  <img width="400px" class="img-fluid" src="https://i.imgur.com/C7uoLpq.png">
+  <img width="400px" class="img-fluid" src="https://i.imgur.com/qLtWi3Q.png">
 </div>
 <div class="text-center p-4">
 Concept and drawing of the fourth page of the second cutscene
