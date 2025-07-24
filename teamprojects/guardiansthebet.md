@@ -125,3 +125,19 @@ Concept and drawing of the first page of the second cutscene
 <div class="text-center p-4">
 Concept and drawing of the fourth page of the second cutscene
 </div>
+
+<br>
+
+## Fourteenth and fifteenth week
+
+The last two weeks were the most intense because while most of the art team was already polishing the details, my colleague and I still had several pages of cinematics to complete. By then, I had all the pages conceptualized, so I was able to help my colleague create the line art to save time.
+
+The last few days were in sprint, and I had stopped going from concept to drawing and instead drew directly in polished line art, which was more difficult because it required more skill and technique and fewer errors to make the drawing look good. However, thanks to this, and a cutback in cinematics by the design team, my colleague only had to focus on coloring, so we ended up finishing on time.
+
+<br>
+
+# Conclusion
+
+Guardians of the Galaxy: The Bet was the first project at the university to simulate the development of a real-life video game. By having the entire class work on the same project, we learned to communicate and work as a team in a realistic way, with various deadlines and requirements to meet.
+
+You can read more about this project on the official website, or you can download a zip file to play it yourself by clicking the button below:
