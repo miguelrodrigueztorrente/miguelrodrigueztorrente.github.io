@@ -87,10 +87,19 @@ During these weeks, our development time was extended due to the workload. By th
 During these weeks, I was in charge of reworking the melee enemy model and fixing a couple of issues that arose with its texturing. Additionally, the design team added a miniboss to the workload. So, once the melee enemy was finished, I was assigned to model and texturize both the new miniboss (which was designed by a colleague) and the tank enemy I designed myself.
 
 <div class="text-center p-4">
-  <img height="350px" class="img-fluid" src="https://i.imgur.com/7HGdVgc.png">
-  <img height="350px" class="img-fluid" src="https://i.imgur.com/6UMSV3w.png">
+  <img height="200px" class="img-fluid" src="https://i.imgur.com/7HGdVgc.png">
+  <img height="200px" class="img-fluid" src="https://i.imgur.com/6UMSV3w.png">
 </div>
 
 <br>
 
 ## Tenth and eleventh week
+
+By the tenth week, we were already approaching the deadline, and for the first time, the design team assigned us the conceptualization of the cinematics. For this, they gave us a script with the text and the characters that would appear, and my job was to draw different comic pages based on the design script. The cinematics would be displayed as if the player were reading a Guardians of the Galaxy comic. I was also assigned the design and modeling of the game's final boss, which was the character Thanos.
+
+For this character, I followed the same conceptualization process, however, this time I modeled it first in ZBrush and then did the retopology in Autodesk Maya. This gave me more freedom when it came to creating details and the character's anatomy, which was helpful since this character was the largest in the project and would be the one with the most noticeable details.
+
+<div class="text-center p-4">
+  <img width="900px" class="img-fluid" src="https://i.imgur.com/oQyu6hl.png">
+</div>
+
