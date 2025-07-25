@@ -25,7 +25,7 @@ With this visual style in mind, a group of friends got together shortly after ou
 
 <br>
 
-## First Fase
+## First Development Fase
 
 At first, the same colleague who developed this project explained how it generally worked to us. At first, we thought they were boxels, like in Minecraft, but we soon realized that everything we put into the engine would appear as pixel art on the screen. On the one hand, it saved us a lot of work developing pixel art sprites, but on the other, it forced us to always model a large part of the assets in 3D.
 
@@ -45,7 +45,7 @@ I was also in charge of conceptualizing one of the game's first bosses. This was
 
 <br>
 
-## Second Version
+## Second Development Fase
 
 Once we had most of the project planned, we decided to set a deadline and start producing some assets. In my case, since I had already worked on the protagonist and the boss, my job consisted of modeling them so they could be incorporated into the game. This process included modeling them in 3D, performing a retopology to reduce the polygon count, creating UVs for later texturing, creating rigging and skinning, and finally animating them.
 
@@ -67,7 +67,7 @@ In the end, we sprinted through asset and code development to have a playable de
 
 <br>
 
-## Third Version
+## Third Development Fase
 
 After the event, we decided to take advantage of what we'd learned and made some changes to the game's production. We started by working on small things and polishing them before implementing an entire unfinished system. On the code side, we decided to redo a large portion of the code to improve production. There weren't any major changes on the design side, but on the art side, we decided to start working on creating a more compelling main character.
 
