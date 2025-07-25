@@ -83,10 +83,10 @@ For the protagonist, I decided to use several references to Link from The Legend
 I used old character models from the Nintendo 64 and the original PlayStation as references. I ended up creating a model that was almost as detailed as the one we had in previous development phases, but with less than a third of its weight and polygonal load.
 
 <div class="text-center p-4">
-  <img width="300px" class="img-fluid" src="https://i.imgur.com/KcEOhYg.gif">
+  <img width="700px" class="img-fluid" src="https://i.imgur.com/KcEOhYg.gif">
 </div>
 
 I created a test texturing to see how it would look, and although it's not the final character design, it's starting to look better for now.
 
-We haven't done any more demos with the new version of the character yet, but you can follow the project's development on [NovaDot's social media ](https://bankaster.itch.io/bardakedabra), or you can download the demo version we took to the CITM event using this button: <a href="
+We haven't done any more demos with the new version of the character yet, but you can follow the project's development on [NovaDot's social media ](https://linktr.ee/novadotstudio), or you can download the demo version we took to the CITM event using this button: <a href="
 https://github.com/Hic-Sunt-Pixel/Hic-Sunt-Pixel/releases/download/%2B/EdensReach.zip" class="btn btn-outline-dark">Download Ende's Reach Demo</a>
