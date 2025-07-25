@@ -15,7 +15,7 @@ projecturl: https://github.com/Hic-Sunt-Pixel/Hic-Sunt-Pixel/releases/download/%
 
 # Introduction
 
-Eden's Reach is a video game project currently being developed by [NovaDot Studios ](https://linktr.ee/novadotstudio), an indie team made up of approximately ten people. Eden's Reach emerged from a former college classmate's final year project, which involved creating three-dimensional worlds that looked like pixel art. That is, while the game world was three-dimensional, it would appear two-dimensional to the player.
+Eden's Reach is a video game project currently being developed by [NovaDot Studios](https://linktr.ee/novadotstudio), an indie game team made up of approximately ten people. Eden's Reach emerged from a former college classmate's final year project, which involved creating three-dimensional worlds that looked like pixel art. That is, while the game world was three-dimensional, it would appear two-dimensional to the player.
 
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/GWThrIv.gif">
@@ -78,4 +78,15 @@ During this phase of development, we decided to reduce the workload after consid
   <img width="300px" class="img-fluid" src="https://i.imgur.com/MP7gWkX.png">
 </div>
 
+For the protagonist, I decided to use several references to Link from The Legend of Zelda and Sora from Kingdom Hearts. The idea was to create a character who was an explorer and had to learn from his surroundings, but at the same time agile and able to defend himself in combat. With this design in mind, we decided to redo the character modeling and make it much more polygonal.
 
+I used old character models from the Nintendo 64 and the original PlayStation as references. I ended up creating a model that was almost as detailed as the one we had in previous development phases, but with less than a third of its weight and polygonal load.
+
+<div class="text-center p-4">
+  <img width="300px" class="img-fluid" src="https://i.imgur.com/KcEOhYg.gif">
+</div>
+
+I created a test texturing to see how it would look, and although it's not the final character design, it's starting to look better for now.
+
+We haven't done any more demos with the new version of the character yet, but you can follow the project's development on [NovaDot's social media ](https://bankaster.itch.io/bardakedabra), or you can download the demo version we took to the CITM event using this button: <a href="
+https://github.com/Hic-Sunt-Pixel/Hic-Sunt-Pixel/releases/download/%2B/EdensReach.zip" class="btn btn-outline-dark">Download Ende's Reach Demo</a>
