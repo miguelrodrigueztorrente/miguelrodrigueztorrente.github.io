@@ -13,28 +13,69 @@ summary: "A third person action game with a 3D pixel art style, where you explor
 projecturl: https://github.com/Hic-Sunt-Pixel/Hic-Sunt-Pixel/releases/download/%2B/EdensReach.zip
 ---
 
+# Introduction
+
+Eden's Reach is a video game project currently being developed by [NovaDot Studios ](https://linktr.ee/novadotstudio), an indie team made up of approximately ten people. Eden's Reach emerged from a former college classmate's final year project, which involved creating three-dimensional worlds that looked like pixel art. That is, while the game world was three-dimensional, it would appear two-dimensional to the player.
+
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="700px" class="img-fluid" src="https://i.imgur.com/GWThrIv.gif">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+With this visual style in mind, a group of friends got together shortly after our final year of college and founded NovaDot Studio with the goal of creating an exploration game that would take advantage of this 3D pixel art.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+<br>
 
-Here is some code that illustrates how we read values from the line sensors:
+## First Fase
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+At first, the same colleague who developed this project explained how it generally worked to us. At first, we thought they were boxels, like in Minecraft, but we soon realized that everything we put into the engine would appear as pixel art on the screen. On the one hand, it saved us a lot of work developing pixel art sprites, but on the other, it forced us to always model a large part of the assets in 3D.
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+With this in mind, in the first few days, we began planning and conceptualizing the different elements of the game so they would work within this engine. We spent several weeks simply gathering references on what style would work well within the engine and what elements we could include to begin prototyping. We also began assigning roles among ourselves to make the organization easier. I was assigned the role of designer, by personal request, and the role of artist, due to the skills my classmates knew from my previous university projects, role that was later formally elevated to Lead Artist.
+
+As an artist, one of my first tasks was to conceptualize the basic design of the protagonist. During the first versions of the project, we had planned for the protagonist to be customizable, both physically and in his clothing, which is why the first concept was to be his basic attire. I worked with other colleagues to find a style that matched the game's, which ultimately led me to create more than ten different styles.
+
+<div class="text-center p-4">
+  <img width="700px" class="img-fluid" src="https://i.imgur.com/busPyOm.png">
+</div>
+
+I was also in charge of conceptualizing one of the game's first bosses. This was done by several people, including the one who eventually became the Lead Designer and two artists, including myself. The Lead Artist, who was also responsible for creature design, would tell us how the creature should look and move, and a colleague and I would create concepts that fit his description.
+
+<div class="text-center p-4">
+  <img width="700px" class="img-fluid" src="https://i.imgur.com/c7qymzd.png">
+</div>
+
+<br>
+
+## Second Version
+
+Once we had most of the project planned, we decided to set a deadline and start producing some assets. In my case, since I had already worked on the protagonist and the boss, my job consisted of modeling them so they could be incorporated into the game. This process included modeling them in 3D, performing a retopology to reduce the polygon count, creating UVs for later texturing, creating rigging and skinning, and finally animating them.
+
+Needless to say, during this process I focused solely on creating these characters. However, before modeling, the Lead Designer and I tweaked the boss to make it more closely resemble its original design, so I had to iterate several times until we arrived at a design we both liked.
+
+<div class="text-center p-4">
+  <img width="600px" class="img-fluid" src="https://i.imgur.com/cABrQ8b.gif">
+</div>
+
+However, once we put it into the engine and everything looked good, we began to notice that the polygonal load was too large, even after retrieving it. During this phase of the project, we began to see some problems with creating a 3D world, so in the following weeks we considered reducing and reworking some assets.
+
+However, at that time we didn't make any changes to production, as the deadline we originally set had already been extended to allow us to attend an event being organized at our university, CITM, so we focused on having everything ready for that day. If we had a demo by that date, we could show it to everyone who came to the event, and people could try the game, which would give us visibility and feedback for future improvements.
+
+In the end, we sprinted through asset and code development to have a playable demo in time. I spent the last few days creating a small test level where the player could explore a small island and face various enemies, including the boss, while my colleagues prepared the engine code for the demo and fixed some bugs. That demo level is the one currently playable.
+
+<div class="text-center p-4">
+  <img width="700px" class="img-fluid" src="https://i.imgur.com/p4lXPmz.png">
+</div>
+
+<br>
+
+## Third Version
+
+After the event, we decided to take advantage of what we'd learned and made some changes to the game's production. We started by working on small things and polishing them before implementing an entire unfinished system. On the code side, we decided to redo a large portion of the code to improve production. There weren't any major changes on the design side, but on the art side, we decided to start working on creating a more compelling main character.
+
+During this phase of development, we decided to reduce the workload after considering everything we had originally proposed and the work it was causing us. Therefore, one of the decisions we made was to remove the character's physical customization and leave only the clothing. We also decided to make the character genderless, which would make it easier to design the clothing without having to vary versions depending on gender.
+
+<div class="text-center p-4">
+  <img width="300px" class="img-fluid" src="https://i.imgur.com/cVDdUiC.png">
+  <img width="300px" class="img-fluid" src="https://i.imgur.com/MP7gWkX.png">
+</div>
+
+
