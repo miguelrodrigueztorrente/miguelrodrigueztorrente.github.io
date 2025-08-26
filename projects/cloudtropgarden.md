@@ -6,9 +6,9 @@ title: "Cloudtrop Garden"
 date: 2024
 published: true
 labels:
-  - Level Design
+  - Platform Level Design
   - Super Mario Bros. 3
-  - Platformer Design
+  - Kishokentetsu metodology
 summary: "A level design of the video game saga Super Mario. The design follows the style of Super Mario Bros. 3 (1988) levels."
 ---
 
