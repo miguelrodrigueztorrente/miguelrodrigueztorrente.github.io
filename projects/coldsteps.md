@@ -6,9 +6,9 @@ title: "Cold Steps"
 date: 2024
 published: true
 labels:
-  - Level Design
+  - Puzzle Level Design
   - Baba is You
-  - Puzzle Design
+  - Out of Box Thinking
 summary: "A level of the puzzle video game Baba is You, created with the game level editor beta uploaded on Itch.io. You can play it with the code 8PRF-ZC2B."
 projecturl: https://hempuli.itch.io/baba-is-you-level-editor-beta
 ---
