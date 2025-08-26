@@ -6,9 +6,9 @@ title: "Bardakedabra"
 date: 2025
 published: true
 labels:
-  - Indie Game
-  - Unity
-  - Game Design
+  - Endless Runner
+  - Player Progression
+  - Easy Controls
 summary: "A reinvented indie game of the classic Google's Dinosaur Game. Adds a new visual style, new mechanics, replayability, and an ending to the game."
 projecturl: projects/bardakedabra_build/index.html
 ---
