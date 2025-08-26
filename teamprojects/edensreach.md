@@ -6,9 +6,9 @@ title: "Eden's Reach"
 date: 2025
 published: true
 labels:
-  - Indie Game
-  - 3D Pixel Art
   - 3D Action game
+  - Role Playing Game
+  - 3D Pixel Art
 summary: "A third person action game with a 3D pixel art style, where you explore a wild world where you possess the local creatures to use their abilities."
 projecturl: https://github.com/Hic-Sunt-Pixel/Hic-Sunt-Pixel/releases/download/%2B/EdensReach.zip
 ---
