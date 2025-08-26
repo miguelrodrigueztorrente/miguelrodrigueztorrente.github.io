@@ -6,9 +6,9 @@ title: "Quizz Tale"
 date: 2021
 published: true
 labels:
-  - Indie Game
+  - Trivia Game
   - Game Jam
-  - Pixel Art
+  - Multiple Endings
 summary: "A trivia game in which you have to answer as many questions as possible correctly to get a good ending."
 projecturl: teamprojects/quizztale_build/index.html
 ---
