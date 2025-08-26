@@ -6,9 +6,9 @@ title: "The Power Plant"
 date: 2024
 published: true
 labels:
-  - Level Design
-  - Unreal Engine
-  - 3D Action Game
+  - 3D Action Game Level Design
+  - The Last of Us
+  - Environmental storytelling
 summary: "A third-person action game level designed for a post-apocalyptic world in the style of The Last of Us levels."
 ---
 
