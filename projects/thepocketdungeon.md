@@ -6,8 +6,8 @@ title: "The Pocket Dungeon"
 date: 2025
 published: true
 labels:
-  - Indie Game
-  - Twine
+  - Player Choices
+  - Multiple Endings
   - Narrative Adventure
 summary: "A narrative-driven game with decision-making, where the player's choices can lead to different endings."
 projecturl: projects/ThePocketDungeon.html
