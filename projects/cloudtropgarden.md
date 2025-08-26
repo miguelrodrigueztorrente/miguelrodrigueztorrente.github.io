@@ -8,7 +8,7 @@ published: true
 labels:
   - Platform Level Design
   - Super Mario Bros. 3
-  - Kishokentetsu metodology
+  - Kishokentetsu Metodology
 summary: "A level design of the video game saga Super Mario. The design follows the style of Super Mario Bros. 3 (1988) levels."
 ---
 
