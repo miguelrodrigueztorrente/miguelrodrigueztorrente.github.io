@@ -11,7 +11,8 @@
     "profiles": [
       { "network": "linkedin", "username": "Miguel Rodríguez Torrente", "url": "https://www.linkedin.com/in/miguel-rodríguez-torrente/" },
       { "network": "github", "username": "miguelrodrigueztorrente", "url": "http://github.com/miguelrodrigueztorrente" }
-    ],
+    ]
+  },
         "interests": [
     { "name": "Game Design" },
     { "name": "Level Design" },
@@ -33,7 +34,7 @@
     }
   ],
   },
-    "experience": [
+    "work": [
     {
       "company": "Nova Dot Studio, Gavà, Spain",
       "position": "Lead Artist and Game Designer",
