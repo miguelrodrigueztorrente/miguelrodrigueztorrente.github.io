@@ -4,61 +4,65 @@
     "label": "Game Designer",
     "picture": "https://github.com/miguelrodrigueztorrente.png",
     "email": "miguelroto1998@gmail.com",
-    "phone": "646-54-94-52",
+    "phone": "(+34) 646 54 94 52",
     "website": "https://miguelrodrigueztorrente.github.io",
     "summary": "I am a designer with a degree in video game design and development at the CITM university in Terrassa, Spain.",
     "location": { "address": "", "postalCode": "08850", "city": "Gavà", "countryCode": "Spain", "region": "Catalonia" },
     "profiles": [
       { "network": "linkedin", "username": "Miguel Rodríguez Torrente", "url": "https://www.linkedin.com/in/miguel-rodríguez-torrente/" },
       { "network": "github", "username": "miguelrodrigueztorrente", "url": "http://github.com/miguelrodrigueztorrente" }
-    ]
-  },
-  "interests": [
+    ],
+        "interests": [
     { "name": "Game Design" },
     { "name": "Level Design" },
     { "name": "2D Videogames" },
     { "name": "Gameplay Mechanics" }
   ],
-  "skills": [
+        "skills": [
     {
       "name": "Game Development Software",
       "keywords": [ "Unity", "Unreal Engine", "Twine" ]
     },
     {
       "name": "3D Modeling Software",
-      "keywords": [ "Autodesk Maya", "Blender", "ZBrush"]
+      "keywords": [ "Autodesk Maya", "Blender", "ZBrush", "3DS Max"]
     },
     {
       "name": "2D Art Software",
-      "keywords": [ "Adobe Photoshop", "Pixel Studio", "Tiled" ]
+      "keywords": [ "Adobe Photoshop", "Tiled", "Pixel Studio"]
+    }
+  ],
+  },
+    "experience": [
+    {
+      "company": "Nova Dot Studio, Gavà, Spain",
+      "position": "Lead Artist and Game Designer",
+      "endDate": "11/2024 - Current"
+    },
+      {
+      "company": "CIMNE, Barcelona, Spain",
+      "position": "Intern 3D Modeler",
+      "endDate": "01/2020 - 05/2020"
     }
   ],
   "education": [
     {
       "institution": "Centre de la Imatge i la Tecnologia Multimèdia | CITM (UPC), Terrassa, Spain",
-      "area": "Video game design and interactive content",
-      "studyType": "Degree in Video Game Design and Development",
-      "startDate": "2020-09",
-      "endDate": "2025-02",
+      "area": "Video game Design and Development",
+      "studyType": "Diploma of Higher Education",
+      "endDate": "2025",
     },
      {
-      "institution": "INS Mare de Déu de la Mercè, Barcelona, Spain",
-      "area": "Animation, interactive technology, video graphics and special effects",
-      "studyType": "Higher level training cycle",
-      "startDate": "2017-09",
-      "endDate": "2020-07",
+      "institution": "Mare de Déu de la Mercè Institute, Barcelona, Spain",
+      "area": ": 3D Animations, games and interactive environments",
+      "studyType": "Certificate of Higher Education",
+      "endDate": "2020",
     },
        {
-      "institution": "CEV. Escuela Superior de Comunicación, Imagen y Sonido, Barcelona, Spain",
-      "area": "Video game design and interactive content",
+      "institution": "CEV Barcelona, Barcelona, Spain",
+      "area": "Game Design",
       "studyType": "Specialization course",
-      "startDate": "2020-03",
-      "endDate": "2020-07",
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
+      "endDate": "2020",
     }
   ]
 }
