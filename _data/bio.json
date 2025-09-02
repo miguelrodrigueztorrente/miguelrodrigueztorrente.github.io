@@ -33,18 +33,6 @@
       "keywords": [ "Adobe Photoshop", "Tiled", "Pixel Studio"]
     }
   ],
-    "work": [
-    {
-      "company": "Nova Dot Studio, Gavà, Spain",
-      "position": "Lead Artist and Game Designer",
-      "endDate": "Current"
-    },
-      {
-      "company": "CIMNE, Barcelona, Spain",
-      "position": "Intern 3D Modeler",
-      "endDate": "2020"
-    }
-  ],
   "education": [
     {
       "institution": "Centre de la Imatge i la Tecnologia Multimèdia | CITM (UPC), Terrassa, Spain",
@@ -63,6 +51,18 @@
       "area": "Game Design",
       "studyType": "Specialization course",
       "endDate": "2020",
+    }
+  ],
+      "work": [
+    {
+      "company": "Nova Dot Studio, Gavà, Spain",
+      "position": "Lead Artist and Game Designer",
+      "endDate": "2025"
+    },
+      {
+      "company": "CIMNE, Barcelona, Spain",
+      "position": "Intern 3D Modeler",
+      "endDate": "2020"
     }
   ]
 }
