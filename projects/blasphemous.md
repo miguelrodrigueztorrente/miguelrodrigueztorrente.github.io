@@ -27,8 +27,8 @@ Before starting to draw, I had to research the inspiration behind The Game Kitch
 I knew that part of the inspiration for the Blasphemous series came from the architecture of Sevilla, so I researched some examples of churches in the city and also used some concepts and screenshots from the game as reference to better understand the architecture and its characteristics.
 
 <div class="text-center p-4">
-  <img height="30px" class="img-fluid" src="https://i.imgur.com/9iCtctd.jpeg">
-  <img height="30px" class="img-fluid" src="https://i.imgur.com/gaW35aP.jpeg">
+  <img width="350px" class="img-fluid" src="https://i.imgur.com/9iCtctd.jpeg">
+  <img width="318px" class="img-fluid" src="https://i.imgur.com/gaW35aP.jpeg">
 </div>
 
 With some references at hand I drew the first concept of the drawing, which did not have much detail, but it helped me know what perspective and how many churches and towers I should draw approximately.
