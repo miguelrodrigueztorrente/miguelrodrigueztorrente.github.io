@@ -14,7 +14,7 @@ summary: "A pixel art drawing of the City of the Blessed Name from the video gam
 
 # Introduction
 
-This is a panoramic drawing of the city of the Blessed Name, a level from the video game Blasphmeous II in the style of The Game Kitchen studio.
+This is a panoramic drawing of the City of the Blessed Name, a level from the video game Blasphmeous II in the style of The Game Kitchen studio.
 
 <div class="text-center p-4">
   <img width="1920px" class="img-fluid" src="https://i.imgur.com/tvuM241.png">
