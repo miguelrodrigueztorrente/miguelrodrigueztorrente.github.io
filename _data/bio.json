@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Miguel Rodríguez Torrente",
-    "label": "Game Designer",
+    "label": "Game Designer and Game Artist",
     "picture": "https://github.com/miguelrodrigueztorrente.png",
     "email": "miguelroto1998@gmail.com",
     "phone": "(+34) 646 54 94 52",
     "website": "https://miguelrodrigueztorrente.github.io",
-    "summary": "I am a designer with a degree in video game design and development at the CITM university in Terrassa, Spain.",
+    "summary": "I am a designer with a degree in video game design and development at the CITM university in Terrassa, Spain with an honors degree in 2D animation.",
     "location": { "address": "", "postalCode": "08850", "city": "Gavà", "countryCode": "Spain", "region": "Catalonia" },
     "profiles": [
       { "network": "linkedin", "username": "Miguel Rodríguez Torrente", "url": "https://www.linkedin.com/in/miguel-rodríguez-torrente/" },
