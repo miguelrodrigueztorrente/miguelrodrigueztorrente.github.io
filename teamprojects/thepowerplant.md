@@ -57,7 +57,7 @@ Just at the start of the level the player has to find a way to enter the facilit
 
 <br>
 
-### Going to the generator:
+### Going to the generator
 
 When sneaking into the facilities, the player falls from the window into an area with a closed fence (a see-through fencing), which will force him to enter the building in front. Once inside the building, the player will encounter a couple of zombies, with whom he/she will discover that when they are inside buildings without light, the zombies behave tamely, teaching the player this behavior as a tutorial. When the player exits the building, he/she will discover a dam that will serve as an exit, but which he/she cannot activate because the electricity is not connected.
 
