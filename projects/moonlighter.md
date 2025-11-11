@@ -41,6 +41,7 @@ The hard part was to transform the game scenerios into something that could work
 
 Surprisingly, the first thing I did was look for music for the animation. After watching the trailers, I already had one or two ideas in mind, but to decide which one to implement, I needed to know what the animation's rhythm would be like, and that's why I needed the music first. I ended up using the main theme of the game, but I edited a little bit so it lasts around thirty seconds instead of one minute, that way I could make a shorter and more polished animation.
 
+
 ### Drawing the Backgrounds
 
 Once I had the soundtrack I needed I started deciding how many planes and types of animation I was going to do. I noticed some changes in the notes of the music, so I used that diferent segments to create a different animation every time. Similar to the trailers, I ended up making a brief tour about what the player will see in the game, and I used that idea to direct the different animations. That's why the first of all is a portal inviting the viewer into the world, the same technique used in some of the game trailers.
@@ -52,6 +53,7 @@ For the color I always started with the base color, then I added some textures f
 <div class="text-center p-4">
   <img width="600px" class="img-fluid" src="https://i.imgur.com/Hc1AwFV.gif">
 </div>
+
 
 ### Animating the elements
 
@@ -69,6 +71,7 @@ I also made some tricks to save time in production with the flying ray because, 
 <div class="text-center p-4">
   <img width="600px" class="img-fluid" src="https://i.imgur.com/4skK7nW.gif">
 </div>
+
 
 ## Postproduction
 
