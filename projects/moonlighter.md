@@ -14,7 +14,7 @@ summary: "A short 2D animation of the Moonlighter II videogame."
 
 # Introduction
 
-This is a panoramic drawing of the City of the Blessed Name, a level from the video game Blasphmeous II in the style of The Game Kitchen studio.
+This is a brief 2D animation based on the world of the Digital Sun Studio game, Moonlighter II.
 
 <div class="text-center p-4">
   <img width="1920px" class="img-fluid" src="https://i.imgur.com/tvuM241.png">
