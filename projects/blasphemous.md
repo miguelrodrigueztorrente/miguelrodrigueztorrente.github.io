@@ -8,6 +8,7 @@ published: true
 labels:
   - Pixel Art
   - Blasphemous II
+  - Sevillian Baroque architecture
 summary: "A pixel art drawing of the City of the Blessed Name from the video game Blasphemous II."
 ---
 
