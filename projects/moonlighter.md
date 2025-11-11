@@ -18,7 +18,7 @@ summary: "A brief 2D animation of the Digital Sun Studio ARPG video game Moonlig
 The Jorney Awaits is a brief 2D animation based on the world of the Digital Sun Studio game, Moonlighter II. You can check it out with full resolution in my Linkedin page with the [following link](https://www.linkedin.com/feed/update/urn:li:activity:7392608492727095296/).
 
 <div class="text-center p-4">
-  <img width="1920px" class="img-fluid" src="https://i.imgur.com/tvuM241.png">
+  <img width="1920px" class="img-fluid" src="https://i.imgur.com/XOUcjD5.gif">
 </div>
 
 
