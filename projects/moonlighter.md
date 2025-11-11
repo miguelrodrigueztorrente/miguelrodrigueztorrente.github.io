@@ -4,7 +4,7 @@ type: project
 image: img/moonlighter_cover.png
 title: "The Journey Awaits"
 date: 2025
-published: false
+published: true
 labels:
   - 2D Animation
   - Moonlighter II
