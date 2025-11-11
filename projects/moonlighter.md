@@ -38,7 +38,9 @@ The hard part was to transform the game scenerios into something that could work
 
 ## Amimation Process
 
-Una de las partes mas difíciles era mas que dibujar un gran numero de edificios, replicar con fidelidad la arqutiectura barroca sevillana, la cual se caracteriza, entre otras cosas, por tener una sobrecarga de detalle en sus edificaciones, lo que me obligaba a dibujar con detalle cada columna, tejado y fachada de cada edificio. 
+Surprisingly, the first thing I did was look for music for the animation. After watching the trailers, I already had one or two ideas in mind, but to decide which one to implement, I needed to know what the animation's rhythm would be like, and that's why I needed the music first. I ended up using the main theme of the game, but I edited a little bit so it lasts around 30 seconds instead of a minute, that way I could make a shorter and more polished animation.
+
+Once I had the soundtrack I needed I started deciding how many planes and types of animation I was going to do. I noticed some changes in the notes of the music, so I used that diferent segments to create a different animation every time. Similar to the trailers, I ended up making a brief tour about what the player will see in the game, and I used that idea to direct the different animations. That's why the first of all is a portal inviting the viewer into the world, the same technique used in the game trailers.
 
 <div class="text-center p-4">
   <img width="700px" class="img-fluid" src="https://i.imgur.com/Gu0c5w3.jpeg">
