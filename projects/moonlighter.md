@@ -8,6 +8,7 @@ published: true
 labels:
   - 2D Animation
   - Moonlighter II
+  - Traditional animation
 summary: "A brief 2D animation about thirty seconds of duration of the Digital Sun Studio ARPG videogame Moonlighter II."
 ---
 
