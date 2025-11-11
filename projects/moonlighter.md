@@ -18,7 +18,7 @@ summary: "A brief 2D animation of the Digital Sun Studio ARPG video game Moonlig
 The Jorney Awaits is a brief 2D animation based on the world of the Digital Sun Studio game, Moonlighter II. You can check it out with full resolution in my Linkedin page with the [following link](https://www.linkedin.com/feed/update/urn:li:activity:7392608492727095296/).
 
 <div class="text-center p-4">
-  <img width="1920px" class="img-fluid" src="https://i.imgur.com/XOUcjD5.gif">
+  <img width="700px" class="img-fluid" src="https://i.imgur.com/XOUcjD5.gif">
 </div>
 
 
@@ -50,7 +50,7 @@ As soon as I decided how the animation was gonna be I started making the first c
 For the color I always started with the base color, then I added some textures for more detail and also painted the lineart with the same background color for a styled effect. Finally I added sahdows and lights to give the scene volume and the final details like some framing with shadows or strokes of light.
 
 <div class="text-center p-4">
-  <img width="700px" class="img-fluid" src="https://i.imgur.com/Hc1AwFV.gif">
+  <img width="600px" class="img-fluid" src="https://i.imgur.com/Hc1AwFV.gif">
 </div>
 
 ### Animating the elements
@@ -67,7 +67,7 @@ When I was happy with the results I proceed with the color and the illumination.
 I also made some tricks to save time in production with the flying ray because, besides the fact that, given its size, it needed to have more detail, the work involved moving every texture and light of his body would be enourmous, and if the textures didn't move properly, they could create an unwanted moving texture effect. That's why only the coloring of the flying ray was almost entirelly made with effects, that way I only had to focus on moving carefully some details on the skin while the effects automatically responded to the change of the ray movements.
 
 <div class="text-center p-4">
-  <img width="700px" class="img-fluid" src="https://i.imgur.com/4skK7nW.gif">
+  <img width="600px" class="img-fluid" src="https://i.imgur.com/4skK7nW.gif">
 </div>
 
 ## Postproduction
