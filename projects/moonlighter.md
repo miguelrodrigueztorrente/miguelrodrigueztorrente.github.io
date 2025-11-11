@@ -66,6 +66,7 @@ Once I had the background I could start making the first rough sketches of the a
   <img width="400px" class="img-fluid" src="https://i.imgur.com/IV3MTrk.gif">
 </div>
 
+When I was happy with the results I proceed wit the color and the shadows. To save time the light and shadows were made with a viusal effect in Photoshop, this way I was able to focus on the aniamtion without worrying that the shadow moved differently than the character. This technique worked the majority of times, when the light or shadow on the charater was a highlighted line, but in some cases, like the broom scene I had to get tricky and retouch some details to make the illusion of a shadow in perspective.
 
 ## Process and final version
 
