@@ -14,31 +14,29 @@ summary: "A short 2D animation of the Moonlighter II videogame."
 
 # Introduction
 
-This is a brief 2D animation based on the world of the Digital Sun Studio game, Moonlighter II.
+The Jorney Awaits is a brief 2D animation based on the world of the Digital Sun Studio game, Moonlighter II.
 
 <div class="text-center p-4">
   <img width="1920px" class="img-fluid" src="https://i.imgur.com/tvuM241.png">
 </div>
 
 
-## Initial concept
+## References
 
-Before starting to draw, I had to research the inspiration behind The Game Kitchen so I could understand how to draw in a similar way. 
-I knew that part of the inspiration for the Blasphemous series came from the architecture of Sevilla, so I researched some examples of churches in the city and also used some concepts and screenshots from the game as reference to better understand the architecture and its characteristics.
-
-<div class="text-center p-4">
-  <img width="450px" class="img-fluid" src="https://i.imgur.com/9iCtctd.jpeg">
-  <img width="410px" class="img-fluid" src="https://i.imgur.com/gaW35aP.jpeg">
-</div>
-
-With some references at hand I drew the first concept of the drawing, which did not have much detail, but it helped me know what perspective and how many churches and towers I should draw approximately.
+Since the main objective was to make an animation about the game the first about what I thought was that if I wanna make something 2D about a 3D world I needed to understand exactly how this game world looks and what the originals creators wanted it to look. Luckily i was able to found some concepts of Will, the main protagonist, that let me see how would look if it was a 2D character.
 
 <div class="text-center p-4">
-  <img width="700px" class="img-fluid" src="https://i.imgur.com/GeR1QGj.png">
+  <img width="700px" class="img-fluid" src="https://i.imgur.com/9iCtctd.jpeg">
+</div>
+
+The hard part was to transform the game scenerios into something that could work in 2D, since in the game, the camera is always in a top down perspective, so i had to understand how the world would look if I change that camera into a different angle. That's how through the trailers of the game I saw the different backgrounds and environments that every zone have, so now I could draw some things that the player normally doesn't see directly in the game, like for example the sky.
+
+<div class="text-center p-4">
+  <img width="900px" class="img-fluid" src="https://i.imgur.com/GeR1QGj.png">
 </div>
 
 
-## Replicating the style
+## Amimation Process
 
 Una de las partes mas difíciles era mas que dibujar un gran numero de edificios, replicar con fidelidad la arqutiectura barroca sevillana, la cual se caracteriza, entre otras cosas, por tener una sobrecarga de detalle en sus edificaciones, lo que me obligaba a dibujar con detalle cada columna, tejado y fachada de cada edificio. 
 
