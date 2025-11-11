@@ -57,8 +57,8 @@ For the color I always started with the base color, then I added some textures f
 Once I had the background I could start making the first rough sketches of the animation. This process was almost identical to drawing the backgrounds, except for that the animated elements had less detail and, of course, they would have to move. For that reason I always made a rough animation to see how the animation would move before adding the color.
 
 <div class="text-center p-4">
-  <img width="400px" class="img-fluid" src="https://i.imgur.com/gbSrqn5.gif">
-  <img width="400px" class="img-fluid" src="https://i.imgur.com/EET9WSz.gif">
+  <img width="300px" class="img-fluid" src="https://i.imgur.com/gbSrqn5.gif">
+  <img width="500px" class="img-fluid" src="https://i.imgur.com/EET9WSz.gif">
 </div>
 
 When I was happy with the results I proceed with the color and the illumination. To save time the light and shadows were made with a visual effect in Photoshop, this way I was able to focus on the animation without worrying that the shadow moved differently than the character. This technique worked the majority of times, when the light or shadow on the charater was a highlighted line, but in some cases, like the broom scene, I had to get tricky and retouch some details to make the illusion of a shadow in perspective.
