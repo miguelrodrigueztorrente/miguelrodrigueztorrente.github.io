@@ -26,13 +26,13 @@ The Jorney Awaits is a brief 2D animation based on the world of the Digital Sun 
 Since the main objective was to make an animation about the game the first about what I thought was that if I wanna make something 2D about a 3D world I needed to understand exactly how this game world looks and what the originals creators wanted it to look. Luckily i was able to found some concepts of Will, the main protagonist, that let me see how would look if it was a 2D character.
 
 <div class="text-center p-4">
-  <img width="700px" class="img-fluid" src="https://i.imgur.com/NpJWMXz.png">
+  <img width="600px" class="img-fluid" src="https://i.imgur.com/NpJWMXz.png">
 </div>
 
 The hard part was to transform the game scenerios into something that could work in 2D, since in the game, the camera is always in a top down perspective, so i had to understand how the world would look if I change that camera into a different angle. That's how through the trailers of the game I saw the different backgrounds and environments that every zone have, so now I could draw some things that the player normally doesn't see directly in the game, like for example the sky.
 
 <div class="text-center p-4">
-  <img width="900px" class="img-fluid" src="https://i.imgur.com/iInXppw.png">
+  <img width="1000px" class="img-fluid" src="https://i.imgur.com/iInXppw.png">
 </div>
 
 
@@ -62,6 +62,12 @@ Once I had the background I could start making the first rough sketches of the a
 </div>
 
 When I was happy with the results I proceed with the color and the illumination. To save time the light and shadows were made with a visual effect in Photoshop, this way I was able to focus on the animation without worrying that the shadow moved differently than the character. This technique worked the majority of times, when the light or shadow on the charater was a highlighted line, but in some cases, like the broom scene, I had to get tricky and retouch some details to make the illusion of a shadow in perspective.
+
+I also made some tricks to save time in production with the flying ray because, besides the fact that, given its size, it needed to have more detail, the work involved moving every texture and light of his body would be enourmous, and if the textures didn't move properly, they could create an unwanted moving texture effect. That's why only the coloring of the flying ray was almost entirelly made with Photoshop effects, that way I only had to focus on moving carefully some details on the skin while the effects automatically responded to the change of the ray movements.
+
+<div class="text-center p-4">
+  <img width="700px" class="img-fluid" src="https://i.imgur.com/4skK7nW.gif">
+</div>
 
 ## Postproduction
 
