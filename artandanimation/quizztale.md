@@ -1,6 +1,6 @@
 ---
 layout: project
-type: teamproject
+type: artandanimation
 image: img/quizztale_cover.png
 title: "Quizz Tale"
 date: 2021
