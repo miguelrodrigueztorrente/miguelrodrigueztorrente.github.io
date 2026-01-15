@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+type: artandanimation
 image: img/moonlighter_cover.png
 title: "The Journey Awaits"
 date: 2025
