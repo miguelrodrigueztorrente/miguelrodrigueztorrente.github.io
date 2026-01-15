@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+type: gamedesign
 image: img/bardakedabra_cover.png
 title: "Bardakedabra"
 date: 2025
