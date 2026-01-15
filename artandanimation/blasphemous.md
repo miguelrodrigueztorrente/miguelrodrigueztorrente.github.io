@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+type: artandanimation
 image: img/blasphemous_cover.png
 title: "City of the Blessed Name"
 date: 2025
