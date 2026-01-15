@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+type: gamedesign
 image: img/the_pocket_dungeon_cover.png
 title: "The Pocket Dungeon"
 date: 2025
