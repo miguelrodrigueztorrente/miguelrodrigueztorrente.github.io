@@ -1,6 +1,6 @@
 ---
 layout: project
-type: teamproject
+type: leveldesign
 image: img/the_power_plant_cover.png
 title: "The Power Plant"
 date: 2024
