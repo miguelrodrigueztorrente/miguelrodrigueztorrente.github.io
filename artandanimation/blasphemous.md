@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: essay
 type: artandanimation
 image: img/blasphemous_cover.png
 title: "City of the Blessed Name"
