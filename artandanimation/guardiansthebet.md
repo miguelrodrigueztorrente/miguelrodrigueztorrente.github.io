@@ -1,6 +1,6 @@
 ---
 layout: project
-type: teamproject
+type: artandanimation
 image: img/guardians_the_bet_cover.png
 title: "Guardians of the Galaxy: The Bet"
 date: 2023
