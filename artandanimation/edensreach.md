@@ -1,6 +1,6 @@
 ---
 layout: project
-type: teamproject
+type: artandanimation
 image: img/edens_reach_cover.png
 title: "Eden's Reach"
 date: 2025
