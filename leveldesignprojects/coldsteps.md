@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+type: leveldesign
 image: img/cold_steps_cover.png
 title: "Cold Steps"
 date: 2024
