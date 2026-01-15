@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+type: leveldesign
 image: img/cloudtrop_garden_cover.png
 title: "Cloudtrop Garden"
 date: 2024
